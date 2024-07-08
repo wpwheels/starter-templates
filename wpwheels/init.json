@@ -3,11 +3,13 @@
     "free": [
       {
         "import_name": "Default",
+        "categories": ["Free", "FSE"],
         "import_path": "v1",
         "preview_url": "https://demo.wpwheels.com/blockwheels/"
       },
       {
         "import_name": "Home 1",
+        "categories": ["Free", "FSE"],
         "import_path": "v2",
         "preview_url": "https://demo.wpwheels.com/blockwheels/home-01/"
       }
@@ -15,16 +17,19 @@
     "pro": [
       {
         "import_name": "Blog Pro",
+        "categories": ["Pro", "FSE"],
         "import_path": "v3",
         "preview_url": "https://demo.wpwheels.com/blockwheels/blog-pro/"
       },
       {
         "import_name": "Photography Pro",
+        "categories": ["Pro", "FSE"],
         "import_path": "v4",
         "preview_url": "https://demo.wpwheels.com/blockwheels/photography/"
       },
       {
         "import_name": "Law Pro",
+        "categories": ["Pro", "FSE"],
         "import_path": "v5",
         "preview_url": "https://demo.wpwheels.com/blockwheels/law-pro/"
       }
