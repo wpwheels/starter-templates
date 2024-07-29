@@ -1,0 +1,26 @@
+{
+  "import_files": {
+    "free": [
+      {
+        "import_name": "Default",
+        "categories": ["Free", "FSE"],
+        "import_path": "v1",
+        "preview_url": "https://demo.wpwheels.com/wpentrepreneur/"
+      }
+    ]
+  },
+  "plugins": [
+    {
+      "slug": "mailchimp-for-wp",
+      "name": "MailChimp for WordPress",
+      "required": false,
+      "preselected": true
+    },
+    {
+      "slug": "contact-form-7",
+      "name": "Contact Form 7",
+      "required": false,
+      "preselected": true
+    }
+  ]
+}
