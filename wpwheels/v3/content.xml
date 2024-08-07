@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-07 09:03" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-07 10:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blog Pro</title>
 	<link>https://demo.wpwheels.com/blockwheels/blog-pro</link>
 	<description></description>
-	<pubDate>Wed, 07 Aug 2024 09:03:48 +0000</pubDate>
+	<pubDate>Wed, 07 Aug 2024 10:19:18 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.wpwheels.com/blockwheels/</wp:base_site_url>
@@ -876,7 +876,7 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/BlockWheels-01-150x150.png</url>
+	<url>https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03-32x32.png</url>
 	<title>Blog Pro</title>
 	<link>https://demo.wpwheels.com/blockwheels/blog-pro</link>
 	<width>32</width>
@@ -3405,10 +3405,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>370</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 08:43:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:43:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[370]]></wp:post_name>
@@ -3462,10 +3462,10 @@
 		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>371</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 08:43:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:43:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[371]]></wp:post_name>
@@ -3519,10 +3519,10 @@
 		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>372</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 08:43:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:43:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[372]]></wp:post_name>
@@ -3567,60 +3567,40 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2024/08/07/373/</link>
-		<pubDate>Wed, 07 Aug 2024 08:43:24 +0000</pubDate>
+		<title><![CDATA[cropped-Blog_BlockWheels_white-03.png]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/blog-pro/blog_blockwheels_white-03/cropped-blog_blockwheels_white-03-png/</link>
+		<pubDate>Wed, 07 Aug 2024 10:12:19 +0000</pubDate>
 		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/blog-pro/?p=373</guid>
+		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.]]></content:encoded>
+		<content:encoded><![CDATA[https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>373</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 08:43:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:43:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>381</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-07 10:12:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-07 10:12:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:12:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:12:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[373]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_name><![CDATA[cropped-blog_blockwheels_white-03-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>336</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/07/cropped-Blog_BlockWheels_white-03.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:45:"2024/07/cropped-Blog_BlockWheels_white-03.png";s:8:"filesize";i:34639;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:19637;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8061;}s:13:"site_icon-270";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16952;}s:13:"site_icon-192";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10993;}s:13:"site_icon-180";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9994;}s:12:"site_icon-32";a:5:{s:4:"file";s:43:"cropped-Blog_BlockWheels_white-03-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1184;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4411,79 +4391,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Mastering the Art of Layering]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2023/01/11/mastering-the-art-of-layering/</link>
-		<pubDate>Wed, 11 Jan 2023 04:08:18 +0000</pubDate>
-		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.aarambhathemes.com/block-aarambha/?p=57</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet. Et debitis explicabo qui voluptatum eaque aut minus rerum. Est neque quia ut laudantium iste vel dicta adipisci! At itaque fuga vel omnis voluptates ut excepturi praesentium et Quis earum est sequi reiciendis. Vel consequuntur sint ut eligendi eveniet quo autem quia ut nostrum perferendis est voluptas ducimus ab cupiditate quam non sint temporibus. Ad unde rerum nam voluptates nobis et ratione iure ex tempore dicta eum galisum iste ex iste magni!. Quo quod illo aut soluta minus eos exercitationem quidem eum unde esse est minima nemo! Est eligendi ipsam in exercitationem enim et molestiae vero est corrupti dolorem ex dignissimos quod et tempora earum est necessitatibus nihil.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:gallery {"columns":4,"linkTo":"none","align":"wide"} -->
-<figure class="wp-block-gallery alignwide has-nested-images columns-4 is-cropped"><!-- wp:image {"id":139,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/birmingham-museums-trust-NspHfyZnMBE-unsplash.jpg" alt="" class="wp-image-139" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":140,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/john-schaidler-9V3Q2W_mRLE-unsplash.jpg" alt="" class="wp-image-140" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":141,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-james-frid-12657534.jpg" alt="" class="wp-image-141" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":87,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-scott-webb-8200851-1024x683.jpg" alt="" class="wp-image-87" /></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:paragraph -->
-<p>Et suscipit rerum et assumenda labore qui unde aperiam hic quia quod eum voluptatem recusandae ut sunt consequatur. Et enim praesentium id perferendis facere qui alias voluptates 33 tempora quia ut illum maxime hic voluptate quisquam. Et voluptatibus accusamus qui expedita similique qui sapiente facilis est itaque quod qui recusandae officiis! Eos optio mollitia et commodi autem et obcaecati possimus ea sapiente fuga. Et dolor sunt ut galisum autem id assumenda facere et necessitatibus impedit.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>Ut quaerat nemo et libero nihil vel sunt accusantium et itaque rerum sit ipsa expedita.</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Ut ipsam provident ut dicta dignissimos hic minus nobis et quia asperiores vel asperiores quis. Aut error laborum et nihil eius eum consectetur earum. Ut enim dolor aut rerum harum et laborum possimus a nostrum doloremque. Et ratione architecto qui nulla molestiae et magnam animi At atque recusandae cum commodi dicta ex dolorem adipisci eum Quis praesentium. Ea facilis voluptas quo nesciunt blanditiis eos magnam perferendis hic alias galisum et nemo numquam et iste eius non modi ducimus? Aut voluptatem quae hic animi sunt est sapiente perspiciatis est odit dolores. Vel eius deleniti et eligendi quia et dolores obcaecati et illum rerum rem eius consectetur sit amet rerum? Id perferendis ratione vel omnis vero hic omnis exercitationem ut obcaecati sunt aut dignissimos officia? Et dolor commodi ut incidunt facere qui pariatur fuga.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2023-01-11 04:08:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-01-11 04:08:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-11 04:08:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-11 04:08:18]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[mastering-the-art-of-layering]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="art"><![CDATA[Art]]></category>
-		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
-		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[87]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Hello World!]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2023/01/10/hello-world-2/</link>
 		<pubDate>Tue, 10 Jan 2023 10:45:00 +0000</pubDate>
@@ -4563,43 +4470,43 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<dc:creator><![CDATA[superuser]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/blog-pro/?page_id=301</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:blockwheels/container {"blockId":"5afdaa69-7f43-46ea-a634-1febe6cf8fce","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":"","mobile":""},"align":"wide","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"0c7e3da7-666f-44f0-95b7-d40ef3ab0509","borderSize":{"top":"0px","right":"0px","bottom":"3px","left":"0px"},"borderColor":"#c97ec6","padding":{"desktop":{"bottom":"12px"},"tablet":"","mobile":""},"textColor":"#c97ec6"} -->
+		<content:encoded><![CDATA[<!-- wp:blockwheels/container {"blockId":"a97cbce3-e136-4b31-891e-55d3ea6c9c1a","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":"","mobile":""},"align":"wide","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"8e66724d-8af6-4e8d-addc-84779368cf13","borderSize":{"top":"0px","right":"0px","bottom":"3px","left":"0px"},"borderColor":"#c97ec6","padding":{"desktop":{"bottom":"12px"},"tablet":"","mobile":""},"textColor":"#c97ec6"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Culture</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/grid-posts {"blockId":"970d4554-79d2-41cc-ad5e-79d62d5be359","numberOfPosts":4,"categories":[{"label":"Culture","value":"2"}],"colGap":{"desktop":"36px","tablet":"15px","mobile":"15px"},"rowGap":{"desktop":"36px","tablet":"15px","mobile":"15px"},"colMargin":{"desktop":{"top":"28px"},"tablet":"","mobile":""},"imageRatio":"16x9","imageHoverStyle":"trans","categoriesBgColor":"#c97ec6","titleFontColor":"#363636","excerptLimit":16,"excerptFontColor":"#727272"} /--></div>
+<!-- wp:blockwheels/grid-posts {"blockId":"7ec9c2af-d99f-41ae-8bd5-6ff5c4e388bd","numberOfPosts":4,"categories":[{"label":"Culture","value":"2"}],"colGap":{"desktop":"36px","tablet":"15px","mobile":"15px"},"rowGap":{"desktop":"36px","tablet":"15px","mobile":"15px"},"colMargin":{"desktop":{"top":"28px"},"tablet":"","mobile":""},"imageRatio":"16x9","imageHoverStyle":"trans","categoriesBgColor":"#c97ec6","titleFontColor":"#363636","excerptLimit":16,"excerptFontColor":"#727272"} /--></div>
 <!-- /wp:blockwheels/container -->
 
-<!-- wp:blockwheels/container {"blockId":"b0d03a98-d06e-4b10-b2e2-d3223bcb0f18","padding":{"desktop":{"top":"80px","right":"75px","bottom":"80px","left":"75px"},"tablet":{"top":"60px","right":"30px","bottom":"60px","left":"30px"},"mobile":""},"backgroundColor":"#363636","align":"full","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignfull block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"0dac5e94-d572-49f3-946a-f222418ea41d","borderSize":{"top":"0px","right":"0px","bottom":"3px","left":"0px"},"borderColor":"#aad6ac","padding":{"desktop":{"bottom":"12px"},"tablet":"","mobile":""},"textColor":"#aad6ac"} -->
+<!-- wp:blockwheels/container {"blockId":"8dd2cac3-c5ad-4742-ab2c-77899611a2c1","padding":{"desktop":{"top":"80px","right":"75px","bottom":"80px","left":"75px"},"tablet":{"top":"60px","right":"30px","bottom":"60px","left":"30px"},"mobile":""},"backgroundColor":"#363636","align":"full","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignfull block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"eb4aac3f-d9e4-4c41-b46a-52db4c1ff985","borderSize":{"top":"0px","right":"0px","bottom":"3px","left":"0px"},"borderColor":"#aad6ac","padding":{"desktop":{"bottom":"12px"},"tablet":"","mobile":""},"textColor":"#aad6ac"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Decor</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/grid-posts {"blockId":"2ce89f61-f703-4a8c-a628-73e9c67ff280","numberOfPosts":4,"categories":[{"label":"Decor","value":"3"}],"columns":{"desktop":4,"tablet":2,"mobile":1},"colMargin":{"desktop":{"top":"28px","bottom":"0px"},"tablet":{"top":"28px","bottom":"0px"},"mobile":{"top":"28px","bottom":"0px"}},"enableMeta":true,"enableExcerpt":false,"contentAlign":{"desktop":"center","tablet":"left","mobile":"left"},"contentMargin":{"desktop":"","tablet":{},"mobile":""},"imageHoverStyle":"zoomin","categoriesFontColor":"#fefefe","categoriesBgColor":"#aad6ac","titleFontColor":"#fefefe","metaLetterCase":"uppercase","metaFontColor":"#aad6ac","excerptFontSize":{"desktop":"18px","tablet":"","mobile":""},"excerptFontColor":"#949494","buttonHoverFontColor":"#c97ec6","buttonBgColor":"#949494"} /--></div>
+<!-- wp:blockwheels/grid-posts {"blockId":"52f79346-95f3-464e-ae82-f0cda7a3b970","numberOfPosts":4,"categories":[{"label":"Decor","value":"3"}],"columns":{"desktop":4,"tablet":2,"mobile":1},"colMargin":{"desktop":{"top":"28px","bottom":"0px"},"tablet":{"top":"28px","bottom":"0px"},"mobile":{"top":"28px","bottom":"0px"}},"enableMeta":true,"enableExcerpt":false,"contentAlign":{"desktop":"center","tablet":"left","mobile":"left"},"contentMargin":{"desktop":"","tablet":{},"mobile":""},"imageHoverStyle":"zoomin","categoriesFontColor":"#fefefe","categoriesBgColor":"#aad6ac","titleFontColor":"#fefefe","metaLetterCase":"uppercase","metaFontColor":"#aad6ac","excerptFontSize":{"desktop":"18px","tablet":"","mobile":""},"excerptFontColor":"#949494","buttonHoverFontColor":"#c97ec6","buttonBgColor":"#949494"} /--></div>
 <!-- /wp:blockwheels/container -->
 
-<!-- wp:blockwheels/container {"blockId":"40f807a9-cb6c-417a-ad28-25fb8cd5edaf","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":"","mobile":""},"align":"wide","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"10c8a8a5-44d7-413d-93a8-5b1a97019778","borderSize":{"top":"0px","right":"0px","bottom":"3px","left":"0px"},"borderColor":"#ed6280","padding":{"desktop":{"bottom":"12px"},"tablet":"","mobile":""},"textColor":"#ed6280"} -->
+<!-- wp:blockwheels/container {"blockId":"4b553cac-f799-4db1-8980-f52eab497ff0","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":"","mobile":""},"align":"wide","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"f3b1fd91-f61f-4e37-8258-c88bac75e7f3","borderSize":{"top":"0px","right":"0px","bottom":"3px","left":"0px"},"borderColor":"#ed6280","padding":{"desktop":{"bottom":"12px"},"tablet":"","mobile":""},"textColor":"#ed6280"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Food</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/grid-posts {"blockId":"e8c8d3b0-bdf0-4b03-9429-4522dc17ad97","numberOfPosts":3,"categories":[{"label":"Food","value":"4"}],"columns":{"desktop":3,"tablet":2,"mobile":1},"colMargin":{"desktop":{"top":"38px"},"tablet":"","mobile":""},"backgroundColor":"#fefefe","imageRatio":"16x9","imageHoverStyle":"zoomout","categoriesBgColor":"#ed6280","titleFontColor":"#363636","excerptLimit":16,"excerptFontColor":"#727272"} /--></div>
+<!-- wp:blockwheels/grid-posts {"blockId":"61df396e-4ff5-40e9-8caf-169b015a0b39","numberOfPosts":3,"categories":[{"label":"Food","value":"4"}],"columns":{"desktop":3,"tablet":2,"mobile":1},"colMargin":{"desktop":{"top":"38px"},"tablet":"","mobile":""},"backgroundColor":"#fefefe","imageRatio":"16x9","imageHoverStyle":"zoomout","categoriesBgColor":"#ed6280","titleFontColor":"#363636","excerptLimit":16,"excerptFontColor":"#727272"} /--></div>
 <!-- /wp:blockwheels/container -->
 
-<!-- wp:blockwheels/container {"blockId":"c33852d1-ba4c-4417-891d-e2b71756750a","padding":{"desktop":{"top":"80px","right":"75px","bottom":"80px","left":"75px"},"tablet":{"top":"60px","right":"30px","bottom":"60px","left":"30px"},"mobile":""},"backgroundColor":"#363636","align":"full","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignfull block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"3e337ca6-08dc-4e90-8acd-911d0a69a733","borderSize":{"top":"0px","right":"0px","bottom":"3px","left":"0px"},"borderColor":"#9ee5eb","padding":{"desktop":{"bottom":"12px"},"tablet":"","mobile":""},"textColor":"#9ee5eb"} -->
+<!-- wp:blockwheels/container {"blockId":"6d95c638-cf58-41e9-8a12-dd3d206dc88a","padding":{"desktop":{"top":"80px","right":"75px","bottom":"80px","left":"75px"},"tablet":{"top":"60px","right":"30px","bottom":"60px","left":"30px"},"mobile":""},"backgroundColor":"#363636","align":"full","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignfull block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"b100c5f9-6cf3-4791-a2c5-6a2df7bfd91b","borderSize":{"top":"0px","right":"0px","bottom":"3px","left":"0px"},"borderColor":"#9ee5eb","padding":{"desktop":{"bottom":"12px"},"tablet":"","mobile":""},"textColor":"#9ee5eb"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">LifeStyle</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/grid-posts {"blockId":"19fe823e-2dcf-462d-962b-7ef650e0d7c6","numberOfPosts":4,"categories":[{"label":"Lifestyle","value":"5"}],"colGap":{"desktop":"36px","tablet":"15px","mobile":"15px"},"rowGap":{"desktop":"36px","tablet":"15px","mobile":"15px"},"colMargin":{"desktop":{"top":"28px","bottom":"0px"},"tablet":{"top":"28px","bottom":"0px"},"mobile":{"top":"28px","bottom":"0px"}},"enableMeta":true,"enableExcerpt":false,"contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"contentMargin":{"desktop":{"top":"-26px","left":"36px"},"tablet":"","mobile":""},"contentBgColor":"#535353","imageHoverStyle":"scale","categoriesFontColor":"#535353","categoriesBgColor":"#9ee5eb","titleFontColor":"#fefefe","metaLetterCase":"uppercase","metaFontColor":"#9ee5eb","excerptFontSize":{"desktop":"18px","tablet":"","mobile":""},"excerptFontColor":"#949494","buttonHoverFontColor":"#c97ec6","buttonBgColor":"#949494"} /--></div>
+<!-- wp:blockwheels/grid-posts {"blockId":"47676f29-e119-4d96-aa03-f308d1306d45","numberOfPosts":4,"categories":[{"label":"Lifestyle","value":"5"}],"colGap":{"desktop":"36px","tablet":"15px","mobile":"15px"},"rowGap":{"desktop":"36px","tablet":"15px","mobile":"15px"},"colMargin":{"desktop":{"top":"28px","bottom":"0px"},"tablet":{"top":"28px","bottom":"0px"},"mobile":{"top":"28px","bottom":"0px"}},"enableMeta":true,"enableExcerpt":false,"contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"contentMargin":{"desktop":{"top":"-26px","left":"36px"},"tablet":"","mobile":""},"contentBgColor":"#535353","imageHoverStyle":"scale","categoriesFontColor":"#535353","categoriesBgColor":"#9ee5eb","titleFontColor":"#fefefe","metaLetterCase":"uppercase","metaFontColor":"#9ee5eb","excerptFontSize":{"desktop":"18px","tablet":"","mobile":""},"excerptFontColor":"#949494","buttonHoverFontColor":"#c97ec6","buttonBgColor":"#949494"} /--></div>
 <!-- /wp:blockwheels/container -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>301</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-23 07:52:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-23 07:52:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:48:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:48:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:13:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:13:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4786,6 +4693,63 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2024/08/07/373/</link>
+		<pubDate>Wed, 07 Aug 2024 08:43:24 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/blog-pro/?p=373</guid>
+		<description></description>
+		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>373</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[373]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2024/08/07/374/</link>
 		<pubDate>Wed, 07 Aug 2024 08:43:24 +0000</pubDate>
 		<dc:creator><![CDATA[superuser]]></dc:creator>
@@ -4794,10 +4758,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>374</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 08:43:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:43:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[374]]></wp:post_name>
@@ -4851,10 +4815,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>375</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 08:43:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:43:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[375]]></wp:post_name>
@@ -4908,10 +4872,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>376</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 08:43:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:43:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[376]]></wp:post_name>
@@ -5028,6 +4992,79 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Mastering the Art of Layering]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2023/01/11/mastering-the-art-of-layering/</link>
+		<pubDate>Wed, 11 Jan 2023 04:08:18 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.aarambhathemes.com/block-aarambha/?p=57</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet. Et debitis explicabo qui voluptatum eaque aut minus rerum. Est neque quia ut laudantium iste vel dicta adipisci! At itaque fuga vel omnis voluptates ut excepturi praesentium et Quis earum est sequi reiciendis. Vel consequuntur sint ut eligendi eveniet quo autem quia ut nostrum perferendis est voluptas ducimus ab cupiditate quam non sint temporibus. Ad unde rerum nam voluptates nobis et ratione iure ex tempore dicta eum galisum iste ex iste magni!. Quo quod illo aut soluta minus eos exercitationem quidem eum unde esse est minima nemo! Est eligendi ipsam in exercitationem enim et molestiae vero est corrupti dolorem ex dignissimos quod et tempora earum est necessitatibus nihil.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"columns":4,"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-4 is-cropped"><!-- wp:image {"id":139,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/birmingham-museums-trust-NspHfyZnMBE-unsplash.jpg" alt="" class="wp-image-139" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":140,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/john-schaidler-9V3Q2W_mRLE-unsplash.jpg" alt="" class="wp-image-140" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":141,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-james-frid-12657534.jpg" alt="" class="wp-image-141" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":87,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-scott-webb-8200851-1024x683.jpg" alt="" class="wp-image-87" /></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>Et suscipit rerum et assumenda labore qui unde aperiam hic quia quod eum voluptatem recusandae ut sunt consequatur. Et enim praesentium id perferendis facere qui alias voluptates 33 tempora quia ut illum maxime hic voluptate quisquam. Et voluptatibus accusamus qui expedita similique qui sapiente facilis est itaque quod qui recusandae officiis! Eos optio mollitia et commodi autem et obcaecati possimus ea sapiente fuga. Et dolor sunt ut galisum autem id assumenda facere et necessitatibus impedit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Ut quaerat nemo et libero nihil vel sunt accusantium et itaque rerum sit ipsa expedita.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Ut ipsam provident ut dicta dignissimos hic minus nobis et quia asperiores vel asperiores quis. Aut error laborum et nihil eius eum consectetur earum. Ut enim dolor aut rerum harum et laborum possimus a nostrum doloremque. Et ratione architecto qui nulla molestiae et magnam animi At atque recusandae cum commodi dicta ex dolorem adipisci eum Quis praesentium. Ea facilis voluptas quo nesciunt blanditiis eos magnam perferendis hic alias galisum et nemo numquam et iste eius non modi ducimus? Aut voluptatem quae hic animi sunt est sapiente perspiciatis est odit dolores. Vel eius deleniti et eligendi quia et dolores obcaecati et illum rerum rem eius consectetur sit amet rerum? Id perferendis ratione vel omnis vero hic omnis exercitationem ut obcaecati sunt aut dignissimos officia? Et dolor commodi ut incidunt facere qui pariatur fuga.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2023-01-11 04:08:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-01-11 04:08:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-01-11 04:08:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-11 04:08:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[mastering-the-art-of-layering]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="art"><![CDATA[Art]]></category>
+		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[87]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5786,15 +5823,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"center","orientation":"vertical"}} -->
 <div class="wp-block-group alignwide"><!-- wp:site-logo {"width":200} /-->
 
-<!-- wp:navigation {"ref":377,"textColor":"neutral","backgroundColor":"contrast","style":{"typography":{"textTransform":"uppercase"}},"layout":{"type":"flex","justifyContent":"center"}} /--></div>
+<!-- wp:navigation {"ref":382,"textColor":"neutral","backgroundColor":"contrast","style":{"typography":{"textTransform":"uppercase"}},"layout":{"type":"flex","justifyContent":"center"}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>318</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-24 10:31:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-24 10:31:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 08:49:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 08:49:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:13:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:13:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -6007,6 +6044,42 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[primary-menu]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Primary Menu]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2024/08/07/primary-menu-2/</link>
+		<pubDate>Wed, 07 Aug 2024 10:13:35 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/blog-pro/?p=382</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":301,"url":"https://demo.wpwheels.com/blockwheels/blog-pro/","kind":"post-type","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Decor","type":"category","description":"Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.","id":3,"url":"https://demo.wpwheels.com/blockwheels/blog-pro/category/decor/","kind":"taxonomy","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Culture","type":"category","description":"Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.","id":2,"url":"https://demo.wpwheels.com/blockwheels/blog-pro/category/culture/","kind":"taxonomy","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Food","type":"category","description":"Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.","id":4,"url":"https://demo.wpwheels.com/blockwheels/blog-pro/category/food/","kind":"taxonomy","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Lifestyle","type":"category","description":"Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.","id":5,"url":"https://demo.wpwheels.com/blockwheels/blog-pro/category/lifestyle/","kind":"taxonomy","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Travel","type":"category","description":"Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.","id":6,"url":"https://demo.wpwheels.com/blockwheels/blog-pro/category/travel/","kind":"taxonomy","isTopLevelLink":true} /-->
+
+<!-- wp:navigation-link {"label":"Contact","type":"page","id":331,"url":"https://demo.wpwheels.com/blockwheels/blog-pro/contact/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>382</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-07 10:13:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-07 10:13:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:13:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:13:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[primary-menu-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
