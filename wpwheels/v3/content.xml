@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-07 10:19" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-07 10:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blog Pro</title>
 	<link>https://demo.wpwheels.com/blockwheels/blog-pro</link>
 	<description></description>
-	<pubDate>Wed, 07 Aug 2024 10:19:18 +0000</pubDate>
+	<pubDate>Wed, 07 Aug 2024 10:33:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.wpwheels.com/blockwheels/</wp:base_site_url>
@@ -876,7 +876,7 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03-32x32.png</url>
+	<url>https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03-1-32x32.png</url>
 	<title>Blog Pro</title>
 	<link>https://demo.wpwheels.com/blockwheels/blog-pro</link>
 	<width>32</width>
@@ -3510,63 +3510,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2024/08/07/372/</link>
-		<pubDate>Wed, 07 Aug 2024 08:43:24 +0000</pubDate>
-		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/blog-pro/?p=372</guid>
-		<description></description>
-		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>372</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[372]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[cropped-Blog_BlockWheels_white-03.png]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/blog-pro/blog_blockwheels_white-03/cropped-blog_blockwheels_white-03-png/</link>
 		<pubDate>Wed, 07 Aug 2024 10:12:19 +0000</pubDate>
@@ -3601,6 +3544,43 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:45:"2024/07/cropped-Blog_BlockWheels_white-03.png";s:8:"filesize";i:34639;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:19637;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8061;}s:13:"site_icon-270";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16952;}s:13:"site_icon-192";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10993;}s:13:"site_icon-180";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9994;}s:12:"site_icon-32";a:5:{s:4:"file";s:43:"cropped-Blog_BlockWheels_white-03-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1184;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-Blog_BlockWheels_white-03-1.png]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/blog-pro/blog_blockwheels_white-03/cropped-blog_blockwheels_white-03-1-png/</link>
+		<pubDate>Wed, 07 Aug 2024 10:21:32 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03-1.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>386</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-07 10:21:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-07 10:21:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:21:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:21:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-blog_blockwheels_white-03-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>336</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2024/07/cropped-Blog_BlockWheels_white-03-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/07/cropped-Blog_BlockWheels_white-03-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:47:"2024/07/cropped-Blog_BlockWheels_white-03-1.png";s:8:"filesize";i:34639;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:47:"cropped-Blog_BlockWheels_white-03-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:19637;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"cropped-Blog_BlockWheels_white-03-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8061;}s:13:"site_icon-270";a:5:{s:4:"file";s:47:"cropped-Blog_BlockWheels_white-03-1-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16952;}s:13:"site_icon-192";a:5:{s:4:"file";s:47:"cropped-Blog_BlockWheels_white-03-1-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10993;}s:13:"site_icon-180";a:5:{s:4:"file";s:47:"cropped-Blog_BlockWheels_white-03-1-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9994;}s:12:"site_icon-32";a:5:{s:4:"file";s:45:"cropped-Blog_BlockWheels_white-03-1-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1184;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3814,8 +3794,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="foreign"><![CDATA[Foreign]]></category>
 		<category domain="post_tag" nicename="rome"><![CDATA[Rome]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[33]]></wp:meta_value>
@@ -4011,8 +3991,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="cold-day"><![CDATA[Cold Day]]></category>
-		<category domain="category" nicename="food"><![CDATA[Food]]></category>
 		<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
+		<category domain="category" nicename="food"><![CDATA[Food]]></category>
 		<category domain="post_tag" nicename="recipies"><![CDATA[Recipies]]></category>
 		<category domain="post_tag" nicename="warm-food"><![CDATA[Warm Food]]></category>
 						<wp:postmeta>
@@ -4293,93 +4273,11 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="destination"><![CDATA[Destination]]></category>
 		<category domain="post_tag" nicename="exploring"><![CDATA[Exploring]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[94]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Evolution of Pop Culture]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2023/01/11/evolution-of-pop-culture/</link>
-		<pubDate>Wed, 11 Jan 2023 04:06:29 +0000</pubDate>
-		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.aarambhathemes.com/block-aarambha/?p=55</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet. Et debitis explicabo qui voluptatum eaque aut minus rerum. Est neque quia ut laudantium iste vel dicta adipisci! At itaque fuga vel omnis voluptates ut excepturi praesentium et Quis earum est sequi reiciendis. Vel consequuntur sint ut eligendi eveniet quo autem quia ut nostrum perferendis est voluptas ducimus ab cupiditate quam non sint temporibus. Ad unde rerum nam voluptates nobis et ratione iure ex tempore dicta eum galisum iste ex iste magni! Ut fugit consequatur et molestias autem id ipsam voluptas. Est vitae dolorem non illo error et dolorum aliquid ut dolorem recusandae cum corrupti aperiam? Sed quia labore in quae consequatur ut debitis quibusdam qui illum aliquid qui facere aliquid!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:gallery {"columns":4,"linkTo":"none","align":"wide"} -->
-<figure class="wp-block-gallery alignwide has-nested-images columns-4 is-cropped"><!-- wp:image {"id":141,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-james-frid-12657534.jpg" alt="" class="wp-image-141" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":140,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/john-schaidler-9V3Q2W_mRLE-unsplash.jpg" alt="" class="wp-image-140" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":139,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/birmingham-museums-trust-NspHfyZnMBE-unsplash.jpg" alt="" class="wp-image-139" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":137,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-arnie-chou-2376620.jpg" alt="" class="wp-image-137" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":191,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-genaro-servin-784707-edited-1.jpg" alt="" class="wp-image-191" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":192,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/haseeb-jamil-zbg2-gyo_hM-unsplash-edited.jpg" alt="" class="wp-image-192" /></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:paragraph -->
-<p>Aut vero velit aut voluptate illo ex velit laborum est quam aperiam qui rerum reprehenderit ut omnis voluptas? Sit fugit sint sed corporis asperiores qui consectetur quia ad voluptatem libero. Est quae sunt ea omnis quaerat qui perspiciatis dolores eum explicabo praesentium? 33 omnis deserunt ab facilis dignissimos nam similique exercitationem ut reiciendis quos ea voluptatem nihil et repellat quis. Sed enim dolorem aut consequuntur iste est molestiae tenetur est deserunt soluta qui reprehenderit consectetur. 33 placeat illo sed quia unde est quia sunt. Quo totam aliquid aut dolorem laboriosam aut adipisci cupiditate At odit itaque sit delectus iusto sed odit voluptate aut beatae facere.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ea quis nostrum in reprehenderit autem aut debitis praesentium eos alias harum et quae odit. Ut dolorum sunt et magni nobis in dolorum dolorem sit quibusdam nihil id optio dolorum hic odio amet? Eos dolore sapiente id provident harum ad soluta galisum qui iusto fuga a accusamus optio aut odit porro. Quo reprehenderit corporis et repellendus consequatur est quasi aliquam eos rerum dolor At dolor galisum. Est molestiae molestiae 33 possimus iusto sed consequatur quam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>Eos iusto maiores qui velit deserunt sed voluptatem ipsum aut dolores nihil in adipisci voluptates.</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2023-01-11 04:06:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-01-11 04:06:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-11 04:06:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-11 04:06:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[evolution-of-pop-culture]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="culture"><![CDATA[Culture]]></category>
-		<category domain="post_tag" nicename="evolution"><![CDATA[Evolution]]></category>
-		<category domain="post_tag" nicename="music"><![CDATA[Music]]></category>
-		<category domain="post_tag" nicename="pop-culture"><![CDATA[Pop Culture]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[86]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -4693,6 +4591,63 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2024/08/07/372/</link>
+		<pubDate>Wed, 07 Aug 2024 08:43:24 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/blog-pro/?p=372</guid>
+		<description></description>
+		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>372</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-07 10:09:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-07 08:43:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-07 10:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-07 10:09:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[372]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2024/08/07/373/</link>
 		<pubDate>Wed, 07 Aug 2024 08:43:24 +0000</pubDate>
 		<dc:creator><![CDATA[superuser]]></dc:creator>
@@ -4995,6 +4950,88 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Evolution of Pop Culture]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2023/01/11/evolution-of-pop-culture/</link>
+		<pubDate>Wed, 11 Jan 2023 04:06:29 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.aarambhathemes.com/block-aarambha/?p=55</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet. Et debitis explicabo qui voluptatum eaque aut minus rerum. Est neque quia ut laudantium iste vel dicta adipisci! At itaque fuga vel omnis voluptates ut excepturi praesentium et Quis earum est sequi reiciendis. Vel consequuntur sint ut eligendi eveniet quo autem quia ut nostrum perferendis est voluptas ducimus ab cupiditate quam non sint temporibus. Ad unde rerum nam voluptates nobis et ratione iure ex tempore dicta eum galisum iste ex iste magni! Ut fugit consequatur et molestias autem id ipsam voluptas. Est vitae dolorem non illo error et dolorum aliquid ut dolorem recusandae cum corrupti aperiam? Sed quia labore in quae consequatur ut debitis quibusdam qui illum aliquid qui facere aliquid!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"columns":4,"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-4 is-cropped"><!-- wp:image {"id":141,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-james-frid-12657534.jpg" alt="" class="wp-image-141" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":140,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/john-schaidler-9V3Q2W_mRLE-unsplash.jpg" alt="" class="wp-image-140" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":139,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/birmingham-museums-trust-NspHfyZnMBE-unsplash.jpg" alt="" class="wp-image-139" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":137,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-arnie-chou-2376620.jpg" alt="" class="wp-image-137" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":191,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/pexels-genaro-servin-784707-edited-1.jpg" alt="" class="wp-image-191" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":192,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/blog-pro/wp-content/uploads/sites/4/2023/01/haseeb-jamil-zbg2-gyo_hM-unsplash-edited.jpg" alt="" class="wp-image-192" /></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>Aut vero velit aut voluptate illo ex velit laborum est quam aperiam qui rerum reprehenderit ut omnis voluptas? Sit fugit sint sed corporis asperiores qui consectetur quia ad voluptatem libero. Est quae sunt ea omnis quaerat qui perspiciatis dolores eum explicabo praesentium? 33 omnis deserunt ab facilis dignissimos nam similique exercitationem ut reiciendis quos ea voluptatem nihil et repellat quis. Sed enim dolorem aut consequuntur iste est molestiae tenetur est deserunt soluta qui reprehenderit consectetur. 33 placeat illo sed quia unde est quia sunt. Quo totam aliquid aut dolorem laboriosam aut adipisci cupiditate At odit itaque sit delectus iusto sed odit voluptate aut beatae facere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ea quis nostrum in reprehenderit autem aut debitis praesentium eos alias harum et quae odit. Ut dolorum sunt et magni nobis in dolorum dolorem sit quibusdam nihil id optio dolorum hic odio amet? Eos dolore sapiente id provident harum ad soluta galisum qui iusto fuga a accusamus optio aut odit porro. Quo reprehenderit corporis et repellendus consequatur est quasi aliquam eos rerum dolor At dolor galisum. Est molestiae molestiae 33 possimus iusto sed consequatur quam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Eos iusto maiores qui velit deserunt sed voluptatem ipsum aut dolores nihil in adipisci voluptates.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2023-01-11 04:06:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-01-11 04:06:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-01-11 04:06:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-11 04:06:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[evolution-of-pop-culture]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="culture"><![CDATA[Culture]]></category>
+		<category domain="post_tag" nicename="evolution"><![CDATA[Evolution]]></category>
+		<category domain="post_tag" nicename="music"><![CDATA[Music]]></category>
+		<category domain="post_tag" nicename="pop-culture"><![CDATA[Pop Culture]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[86]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Mastering the Art of Layering]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/blog-pro/2023/01/11/mastering-the-art-of-layering/</link>
 		<pubDate>Wed, 11 Jan 2023 04:08:18 +0000</pubDate>
@@ -5052,8 +5089,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="art"><![CDATA[Art]]></category>
-		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[87]]></wp:meta_value>
@@ -5249,8 +5286,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="solo-trip"><![CDATA[Solo Trip]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[84]]></wp:meta_value>
@@ -5610,8 +5647,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
 		<category domain="post_tag" nicename="insurance"><![CDATA[Insurance]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="vaccation"><![CDATA[Vaccation]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
