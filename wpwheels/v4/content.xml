@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-07 11:26" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-12 04:12" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Photography Pro</title>
 	<link>https://demo.wpwheels.com/blockwheels/photography-pro</link>
 	<description></description>
-	<pubDate>Wed, 07 Aug 2024 11:26:51 +0000</pubDate>
+	<pubDate>Mon, 12 Aug 2024 04:12:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.wpwheels.com/blockwheels/</wp:base_site_url>
@@ -3587,30 +3587,30 @@
 		<dc:creator><![CDATA[superuser]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/photography-pro/?page_id=297</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:blockwheels/container {"blockId":"3a897be4-669f-42f2-aa92-82ec42ad403d","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":{"top":"0px","bottom":"60px"},"mobile":""},"align":"wide","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/hero-slider {"blockId":"737cb861-d17e-4f9a-a91d-d439d57eb907","enableButtons":true,"contentPadding":{"desktop":{"top":"20px","right":"20px","bottom":"40px","left":"40px"},"tablet":{"top":"20px","right":"20px","bottom":"40px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"40px","left":"20px"}},"arrowsColor":"#ffffff","arrowsBgColor":"#aad6ac","subHeadingLetterCase":"uppercase","subHeadingFontColor":"#ffffff","nameFontColor":"#ffffff","descriptionFontColor":"#ffffff","buttonBorderWidth":"2px","buttonBorderRadius":"0px","buttonItemsGap":{"desktop":"2px","tablet":"5px","mobile":"5px"},"buttonBgColor":"#0000001c","buttonBorderColor":"#0000000a","buttonLetterSpacing":{"desktop":"0px","tablet":"","mobile":""},"buttonPadding":{"desktop":{"top":"8px","right":"16px","bottom":"8px","left":"16px"},"tablet":{"top":"4px","right":"12px","bottom":"4px","left":"12px"},"mobile":{"top":"4px","right":"12px","bottom":"4px","left":"12px"}}} -->
-<div class="wp-block-blockwheels-hero-slider blockwheels-hero-slider-container sm-text-left md-text-left text-left"><div class="splide" data-pagination="false" data-arrows="true" data-speed="400" data-drag="true" data-autoplay="false" data-interval="7000" data-lg-col="1" data-lg-gap="0px" data-md-col="1" data-md-gap="0px" data-sm-col="1" data-sm-gap="0px" data-arrows-position="center"><div class="splide__track grid gap image-ratio" data-ratio="21x9"><ul class="splide__list"><!-- wp:blockwheels/hero-slide {"blockId":"472513b8-a238-4af1-8fe0-173d42b2608d","presetDesign":"style-1","showButtons":true,"contentBgColor":"#565656","id":301} -->
-<li class="splide__slide"><div class="wp-block-blockwheels-hero-slide blockwheels-hero-slide-wrapper flex flex-column" data-id="472513b8-a238-4af1-8fe0-173d42b2608d" data-layout="style-1"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/refargotohp-0GXC89mN3w8-unsplash.jpg" alt="" class="wp-image-301"/></a></figure><div class="wp-block-content has-image"><span></span><h6>Frame Your Story, Freeze the Moment.</h6><p>Immerse yourself in a world where time stands still, unveiling the beauty and emotions in every captured moment through the lens.</p><div class="slide-buttons"><ul><li data-icon="BUY NOW"><a href="#" rel="noopener">BUY NOW</a></li></ul></div></div></div></li>
+		<content:encoded><![CDATA[<!-- wp:blockwheels/container {"blockId":"8d961f64-1503-4590-b5bc-2cc9a2ea05ca","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":{"top":"0px","bottom":"60px"},"mobile":""},"align":"wide","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/hero-slider {"blockId":"cd8e215c-77d0-4314-8914-ff1b6ebbbf53","enableButtons":true,"contentPadding":{"desktop":{"top":"20px","right":"20px","bottom":"40px","left":"40px"},"tablet":{"top":"20px","right":"20px","bottom":"40px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"40px","left":"20px"}},"arrowsColor":"#ffffff","arrowsBgColor":"#aad6ac","subHeadingLetterCase":"uppercase","subHeadingFontColor":"#ffffff","nameFontColor":"#ffffff","descriptionFontColor":"#ffffff","buttonBorderWidth":"2px","buttonBorderRadius":"0px","buttonItemsGap":{"desktop":"2px","tablet":"5px","mobile":"5px"},"buttonBgColor":"#0000001c","buttonBorderColor":"#0000000a","buttonLetterSpacing":{"desktop":"0px","tablet":"","mobile":""},"buttonPadding":{"desktop":{"top":"8px","right":"16px","bottom":"8px","left":"16px"},"tablet":{"top":"4px","right":"12px","bottom":"4px","left":"12px"},"mobile":{"top":"4px","right":"12px","bottom":"4px","left":"12px"}}} -->
+<div class="wp-block-blockwheels-hero-slider blockwheels-hero-slider-container sm-text-left md-text-left text-left"><div class="splide" data-pagination="false" data-arrows="true" data-speed="400" data-drag="true" data-autoplay="false" data-interval="7000" data-lg-col="1" data-lg-gap="0px" data-md-col="1" data-md-gap="0px" data-sm-col="1" data-sm-gap="0px" data-arrows-position="center"><div class="splide__track grid gap image-ratio" data-ratio="21x9"><ul class="splide__list"><!-- wp:blockwheels/hero-slide {"blockId":"2eef5a5d-01ca-42d8-81b4-e8b0c52630ae","presetDesign":"style-1","showButtons":true,"contentBgColor":"#565656","id":301} -->
+<li class="splide__slide"><div class="wp-block-blockwheels-hero-slide blockwheels-hero-slide-wrapper flex flex-column" data-id="2eef5a5d-01ca-42d8-81b4-e8b0c52630ae" data-layout="style-1"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/refargotohp-0GXC89mN3w8-unsplash.jpg" alt="" class="wp-image-301"/></a></figure><div class="wp-block-content has-image"><span></span><h6>Frame Your Story, Freeze the Moment.</h6><p>Immerse yourself in a world where time stands still, unveiling the beauty and emotions in every captured moment through the lens.</p><div class="slide-buttons"><ul><li data-icon="BUY NOW"><a href="#" rel="noopener">BUY NOW</a></li></ul></div></div></div></li>
 <!-- /wp:blockwheels/hero-slide -->
 
-<!-- wp:blockwheels/hero-slide {"blockId":"0059c719-6d2c-4f19-9ecf-a6c54db1143b","presetDesign":"style-1","showButtons":true,"contentBgColor":"#565656","id":302} -->
-<li class="splide__slide"><div class="wp-block-blockwheels-hero-slide blockwheels-hero-slide-wrapper flex flex-column" data-id="0059c719-6d2c-4f19-9ecf-a6c54db1143b" data-layout="style-1"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/ira-ostafiichuk-U6A27TdwQxg-unsplash.jpg" alt="" class="wp-image-302"/></a></figure><div class="wp-block-content has-image"><span></span><h6>Preserving Life's Precious Moments.</h6><p>Discover a rich tapestry woven with emotions, vibrant colors, and compelling narratives through our Photography Block. Each frame is a narrative, seizing fleeting moments and immortalizing them in visual tales.</p><div class="slide-buttons"><ul><li data-icon="VIEW MORE"><a href="#" rel="noopener">VIEW MORE</a></li></ul></div></div></div></li>
+<!-- wp:blockwheels/hero-slide {"blockId":"8f3bb3ba-84ab-460e-9b2f-cf620c4e7600","presetDesign":"style-1","showButtons":true,"contentBgColor":"#565656","id":302} -->
+<li class="splide__slide"><div class="wp-block-blockwheels-hero-slide blockwheels-hero-slide-wrapper flex flex-column" data-id="8f3bb3ba-84ab-460e-9b2f-cf620c4e7600" data-layout="style-1"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/ira-ostafiichuk-U6A27TdwQxg-unsplash.jpg" alt="" class="wp-image-302"/></a></figure><div class="wp-block-content has-image"><span></span><h6>Preserving Life's Precious Moments.</h6><p>Discover a rich tapestry woven with emotions, vibrant colors, and compelling narratives through our Photography Block. Each frame is a narrative, seizing fleeting moments and immortalizing them in visual tales.</p><div class="slide-buttons"><ul><li data-icon="VIEW MORE"><a href="#" rel="noopener">VIEW MORE</a></li></ul></div></div></div></li>
 <!-- /wp:blockwheels/hero-slide --></ul></div></div></div>
 <!-- /wp:blockwheels/hero-slider -->
 
-<!-- wp:blockwheels/spacer {"blockId":"b2360a5b-22e6-4255-a0ad-166d70589a94","spacerHeight":{"desktop":"40px","tablet":"20px","mobile":"20px"},"enableDivider":false,"dividerAlign":{"desktop":"center","tablet":"left","mobile":"left"},"dividerHeight":{"desktop":"0px","tablet":"2px","mobile":"2px"}} -->
+<!-- wp:blockwheels/spacer {"blockId":"85c6ccb7-077f-47a7-9783-1edd360d4aba","spacerHeight":{"desktop":"40px","tablet":"20px","mobile":"20px"},"enableDivider":false,"dividerAlign":{"desktop":"center","tablet":"left","mobile":"left"},"dividerHeight":{"desktop":"0px","tablet":"2px","mobile":"2px"}} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-left md-text-left text-center"></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/heading {"blockId":"4e48ac4b-b606-47e7-b4d7-270495646a9c","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{},"tablet":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"mobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"15px"},"mobile":{"top":"0px","bottom":"15px"}},"textColor":"#404040"} -->
+<!-- wp:blockwheels/heading {"blockId":"c788850e-479d-42b4-be86-0aede0a03016","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{},"tablet":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"mobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"15px"},"mobile":{"top":"0px","bottom":"15px"}},"textColor":"#404040"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Our Portfolio</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/spacer {"blockId":"cb98e221-668d-45cf-9f2a-4b44eda8f8e8","spacerHeight":{"desktop":"0px","tablet":"0px","mobile":"0px"},"padding":{"desktop":{},"tablet":{},"mobile":{}},"margin":{"desktop":{},"tablet":{"top":"0px","bottom":"0px"},"mobile":{}},"dividerAlign":{"desktop":"center","tablet":"center","mobile":"center"},"dividerHeight":{"desktop":"3px","tablet":"3px","mobile":"3px"},"dividerWidth":{"desktop":"5%","tablet":"5%","mobile":"10%"},"dividerColor":"#aad6ac"} -->
+<!-- wp:blockwheels/spacer {"blockId":"22ad30dc-8cb0-40fb-8246-0f163b02dc3e","spacerHeight":{"desktop":"0px","tablet":"0px","mobile":"0px"},"padding":{"desktop":{},"tablet":{},"mobile":{}},"margin":{"desktop":{},"tablet":{"top":"0px","bottom":"0px"},"mobile":{}},"dividerAlign":{"desktop":"center","tablet":"center","mobile":"center"},"dividerHeight":{"desktop":"3px","tablet":"3px","mobile":"3px"},"dividerWidth":{"desktop":"5%","tablet":"5%","mobile":"10%"},"dividerColor":"#aad6ac"} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-center md-text-center text-center"><hr class="blockwheels-divider"/></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/paragraph {"blockId":"c406163d-89cc-4323-8dbe-15ccecfda19d","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"15px","bottom":"15px"},"tablet":{"top":"15px","bottom":"15px"},"mobile":{"top":"15px","bottom":"15px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
+<!-- wp:blockwheels/paragraph {"blockId":"85c96fc8-2b4f-40e7-a609-5a03ef544524","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"15px","bottom":"15px"},"tablet":{"top":"15px","bottom":"15px"},"mobile":{"top":"15px","bottom":"15px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
 <p class="blockwheels-paragraph-block">Immerse yourself in a world where time stands still, unveiling the beauty and emotions in every captured moment through the lens.</p>
 <!-- /wp:blockwheels/paragraph -->
 
@@ -3619,58 +3619,58 @@
 <!-- /wp:blockwheels/masonry-gallery --></div>
 <!-- /wp:blockwheels/container -->
 
-<!-- wp:blockwheels/container {"blockId":"8804a4f1-9d2d-46c0-85b5-b16c6b8c7c0d","padding":{"desktop":{"top":"80px","right":"100px","bottom":"80px","left":"100px"},"tablet":{"top":"60px","right":"15px","bottom":"60px","left":"15px"},"mobile":""},"backgroundColor":"#ffffff","align":"full","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignfull block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"6c408edd-eab2-4556-8beb-54ed16409fec","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"15px"},"mobile":{"top":"0px","bottom":"15px"}},"textColor":"#404040"} -->
+<!-- wp:blockwheels/container {"blockId":"6e51b47e-381b-49be-89b0-f10220063643","padding":{"desktop":{"top":"80px","right":"100px","bottom":"80px","left":"100px"},"tablet":{"top":"60px","right":"15px","bottom":"60px","left":"15px"},"mobile":""},"backgroundColor":"#ffffff","align":"full","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignfull block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"f08a08b2-beae-4e86-bc26-23656e83f41b","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"15px"},"mobile":{"top":"0px","bottom":"15px"}},"textColor":"#404040"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Our pricing plans</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/spacer {"blockId":"84118100-9873-4090-acbc-5ca067d01f7a","spacerHeight":{"desktop":"0px","tablet":"0px","mobile":"0px"},"padding":{"desktop":{},"tablet":{},"mobile":{}},"margin":{"desktop":{},"tablet":{},"mobile":{}},"dividerAlign":{"desktop":"center","tablet":"center","mobile":"center"},"dividerHeight":{"desktop":"3px","tablet":"3px","mobile":"3px"},"dividerWidth":{"desktop":"5%","tablet":"5%","mobile":"10%"},"dividerColor":"#aad6ac"} -->
+<!-- wp:blockwheels/spacer {"blockId":"00f94319-3ffb-4cd7-9213-e038f754945f","spacerHeight":{"desktop":"0px","tablet":"0px","mobile":"0px"},"padding":{"desktop":{},"tablet":{},"mobile":{}},"margin":{"desktop":{},"tablet":{},"mobile":{}},"dividerAlign":{"desktop":"center","tablet":"center","mobile":"center"},"dividerHeight":{"desktop":"3px","tablet":"3px","mobile":"3px"},"dividerWidth":{"desktop":"5%","tablet":"5%","mobile":"10%"},"dividerColor":"#aad6ac"} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-center md-text-center text-center"><hr class="blockwheels-divider"/></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/paragraph {"blockId":"25e94473-ee35-41c8-99a2-2ea1cc2f9fbf","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{},"tablet":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"mobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"margin":{"desktop":{"top":"20px","bottom":"20px"},"tablet":{"top":"15px","bottom":"15px"},"mobile":{"top":"15px","bottom":"15px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
+<!-- wp:blockwheels/paragraph {"blockId":"a02c1477-0aba-4b9a-8b64-90f9ee5d3d70","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{},"tablet":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"mobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"margin":{"desktop":{"top":"20px","bottom":"20px"},"tablet":{"top":"15px","bottom":"15px"},"mobile":{"top":"15px","bottom":"15px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
 <p class="blockwheels-paragraph-block">Quality should not come with an expensive price tag. Choose our affordable pricing plan that suits your requirements and budget.</p>
 <!-- /wp:blockwheels/paragraph -->
 
-<!-- wp:blockwheels/spacer {"blockId":"ea460431-45f1-4ebc-a561-45e6a81c1a36","spacerHeight":{"desktop":"10px","tablet":"10px","mobile":"10px"},"margin":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"","mobile":""},"enableDivider":false} -->
+<!-- wp:blockwheels/spacer {"blockId":"74edcdef-dcb3-4aba-b8ec-0d29e8bccbec","spacerHeight":{"desktop":"10px","tablet":"10px","mobile":"10px"},"margin":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"","mobile":""},"enableDivider":false} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-left md-text-left text-left"></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/services {"blockId":"5cedae15-67c7-420b-98b7-2a71ff8599f8","colPadding":{"desktop":{"top":"36px","right":"36px","bottom":"36px","left":"36px"},"tablet":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"colBorderSize":{"top":"0px","right":"0px","bottom":"4px","left":"0px"},"colBorderColor":"#aad6ac","colBgColor":"#f2f8f2","iconPadding":{"desktop":"20px","tablet":"15px","mobile":"15px"},"imageRadius":"0%","nameFontColor":"#363636","descFontSize":{"desktop":"18px","tablet":"","mobile":""},"descFontColor":"#727272","buttonBorderRadius":"0px","buttonFontColor":"#fefefe","buttonBgColor":"#3636363b","buttonFontSize":{"desktop":"20px","tablet":"","mobile":""},"buttonLetterSpacing":{"desktop":"0px","tablet":"","mobile":""},"buttonPadding":{"desktop":{"top":"20px","right":"26px","bottom":"21px","left":"26px"},"tablet":{"top":"10px","right":"15px","bottom":"10px","left":"15px"},"mobile":{"top":"10px","right":"15px","bottom":"10px","left":"15px"}}} -->
-<div class="wp-block-blockwheels-services blockwheels-services-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-2 grid-cols-3" data-ratio="auto"><!-- wp:blockwheels/service {"blockId":"20de48a7-67dc-4322-b0db-8e8538177258","iconBorderColor":"#565656","iconBgColor":"#aad6ac","serviceIcon":"fas_leaf"} -->
-<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="20de48a7-67dc-4322-b0db-8e8538177258"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 576 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M546.2 9.7c-5.6-12.5-21.6-13-28.3-1.2C486.9 62.4 431.4 96 368 96h-80C182 96 96 182 96 288c0 7 .8 13.7 1.5 20.5C161.3 262.8 253.4 224 384 224c8.8 0 16 7.2 16 16s-7.2 16-16 16C132.6 256 26 410.1 2.4 468c-6.6 16.3 1.2 34.9 17.5 41.6 16.4 6.8 35-1.1 41.8-17.3 1.5-3.6 20.9-47.9 71.9-90.6 32.4 43.9 94 85.8 174.9 77.2C465.5 467.5 576 326.7 576 154.3c0-50.2-10.8-102.2-29.8-144.6z"></path></svg></div><div class="wp-block-content"><h4>Silver Pack</h4><p>$199.99 / Per Day</p><div class="blockwheels-service-buttons"><ul><li data-text="Book Now"><a href="" rel="noopener">Book Now</a></li></ul></div></div></div>
+<!-- wp:blockwheels/services {"blockId":"b8808473-10cd-4f7e-b1b4-d733c41a7672","colPadding":{"desktop":{"top":"36px","right":"36px","bottom":"36px","left":"36px"},"tablet":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"colBorderSize":{"top":"0px","right":"0px","bottom":"4px","left":"0px"},"colBorderColor":"#aad6ac","colBgColor":"#f2f8f2","iconPadding":{"desktop":"20px","tablet":"15px","mobile":"15px"},"imageRadius":"0%","nameFontColor":"#363636","descFontSize":{"desktop":"18px","tablet":"","mobile":""},"descFontColor":"#727272","buttonBorderRadius":"0px","buttonFontColor":"#fefefe","buttonBgColor":"#3636363b","buttonFontSize":{"desktop":"20px","tablet":"","mobile":""},"buttonLetterSpacing":{"desktop":"0px","tablet":"","mobile":""},"buttonPadding":{"desktop":{"top":"20px","right":"26px","bottom":"21px","left":"26px"},"tablet":{"top":"10px","right":"15px","bottom":"10px","left":"15px"},"mobile":{"top":"10px","right":"15px","bottom":"10px","left":"15px"}}} -->
+<div class="wp-block-blockwheels-services blockwheels-services-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-2 grid-cols-3" data-ratio="auto"><!-- wp:blockwheels/service {"blockId":"0e59f041-90a9-4f59-a4c4-037f6d2f547f","iconBorderColor":"#565656","iconBgColor":"#aad6ac","serviceIcon":"fas_leaf"} -->
+<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="0e59f041-90a9-4f59-a4c4-037f6d2f547f"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 576 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M546.2 9.7c-5.6-12.5-21.6-13-28.3-1.2C486.9 62.4 431.4 96 368 96h-80C182 96 96 182 96 288c0 7 .8 13.7 1.5 20.5C161.3 262.8 253.4 224 384 224c8.8 0 16 7.2 16 16s-7.2 16-16 16C132.6 256 26 410.1 2.4 468c-6.6 16.3 1.2 34.9 17.5 41.6 16.4 6.8 35-1.1 41.8-17.3 1.5-3.6 20.9-47.9 71.9-90.6 32.4 43.9 94 85.8 174.9 77.2C465.5 467.5 576 326.7 576 154.3c0-50.2-10.8-102.2-29.8-144.6z"></path></svg></div><div class="wp-block-content"><h4>Silver Pack</h4><p>$199.99 / Per Day</p><div class="blockwheels-service-buttons"><ul><li data-text="Book Now"><a href="" rel="noopener">Book Now</a></li></ul></div></div></div>
 <!-- /wp:blockwheels/service -->
 
-<!-- wp:blockwheels/service {"blockId":"457bbf3a-9646-48d1-b7fd-5a513c4eeb48","iconBgColor":"#aad6ac","serviceIcon":"fas_money-bill-alt"} -->
-<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="457bbf3a-9646-48d1-b7fd-5a513c4eeb48"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 640 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M352 288h-16v-88c0-4.42-3.58-8-8-8h-13.58c-4.74 0-9.37 1.4-13.31 4.03l-15.33 10.22a7.994 7.994 0 0 0-2.22 11.09l8.88 13.31a7.994 7.994 0 0 0 11.09 2.22l.47-.31V288h-16c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h64c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8zM608 64H32C14.33 64 0 78.33 0 96v320c0 17.67 14.33 32 32 32h576c17.67 0 32-14.33 32-32V96c0-17.67-14.33-32-32-32zM48 400v-64c35.35 0 64 28.65 64 64H48zm0-224v-64h64c0 35.35-28.65 64-64 64zm272 192c-53.02 0-96-50.15-96-112 0-61.86 42.98-112 96-112s96 50.14 96 112c0 61.87-43 112-96 112zm272 32h-64c0-35.35 28.65-64 64-64v64zm0-224c-35.35 0-64-28.65-64-64h64v64z"></path></svg></div><div class="wp-block-content"><h4>Gold Pack</h4><p>&nbsp;$399.99 / Per Day</p><div class="blockwheels-service-buttons"><ul><li data-text="Book Now"><a href="" rel="noopener">Book Now</a></li></ul></div></div></div>
+<!-- wp:blockwheels/service {"blockId":"97c69d28-b8d6-40a2-9169-5570901bf375","iconBgColor":"#aad6ac","serviceIcon":"fas_money-bill-alt"} -->
+<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="97c69d28-b8d6-40a2-9169-5570901bf375"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 640 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M352 288h-16v-88c0-4.42-3.58-8-8-8h-13.58c-4.74 0-9.37 1.4-13.31 4.03l-15.33 10.22a7.994 7.994 0 0 0-2.22 11.09l8.88 13.31a7.994 7.994 0 0 0 11.09 2.22l.47-.31V288h-16c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h64c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8zM608 64H32C14.33 64 0 78.33 0 96v320c0 17.67 14.33 32 32 32h576c17.67 0 32-14.33 32-32V96c0-17.67-14.33-32-32-32zM48 400v-64c35.35 0 64 28.65 64 64H48zm0-224v-64h64c0 35.35-28.65 64-64 64zm272 192c-53.02 0-96-50.15-96-112 0-61.86 42.98-112 96-112s96 50.14 96 112c0 61.87-43 112-96 112zm272 32h-64c0-35.35 28.65-64 64-64v64zm0-224c-35.35 0-64-28.65-64-64h64v64z"></path></svg></div><div class="wp-block-content"><h4>Gold Pack</h4><p>&nbsp;$399.99 / Per Day</p><div class="blockwheels-service-buttons"><ul><li data-text="Book Now"><a href="" rel="noopener">Book Now</a></li></ul></div></div></div>
 <!-- /wp:blockwheels/service -->
 
-<!-- wp:blockwheels/service {"blockId":"c41eda8c-6bd8-41d2-996a-23f8bc23c16b","iconBgColor":"#aad6ac","serviceIcon":"fe_downloadCloud"} -->
-<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="c41eda8c-6bd8-41d2-996a-23f8bc23c16b"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 24 24" height="24" width="24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="8 17 12 21 16 17"></polyline><line x1="12" y1="12" x2="12" y2="21"></line><path d="M20.88 18.09A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.29"></path></svg></div><div class="wp-block-content"><h4>Platinum Pack</h4><p>$999.99 / Per Day</p><div class="blockwheels-service-buttons"><ul><li data-text="Book Now"><a href="" rel="noopener">Book Now</a></li></ul></div></div></div>
+<!-- wp:blockwheels/service {"blockId":"91d4be94-ac64-455c-a180-ed3d9539f9fb","iconBgColor":"#aad6ac","serviceIcon":"fe_downloadCloud"} -->
+<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="91d4be94-ac64-455c-a180-ed3d9539f9fb"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 24 24" height="24" width="24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="8 17 12 21 16 17"></polyline><line x1="12" y1="12" x2="12" y2="21"></line><path d="M20.88 18.09A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.29"></path></svg></div><div class="wp-block-content"><h4>Platinum Pack</h4><p>$999.99 / Per Day</p><div class="blockwheels-service-buttons"><ul><li data-text="Book Now"><a href="" rel="noopener">Book Now</a></li></ul></div></div></div>
 <!-- /wp:blockwheels/service --></div></div>
 <!-- /wp:blockwheels/services --></div>
 <!-- /wp:blockwheels/container -->
 
-<!-- wp:blockwheels/container {"blockId":"2522bc5e-8ca2-4742-a2dc-80b84a6f185a","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":"","mobile":""},"align":"wide","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"300d3e21-fb6e-494a-97fd-fd212f291bb1","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"15px"},"mobile":{"top":"0px","bottom":"15px"}},"textColor":"#404040"} -->
+<!-- wp:blockwheels/container {"blockId":"768bffa8-ce54-4a5d-9975-5220f5544e21","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":"","mobile":""},"align":"wide","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"e8098381-8090-46b3-821f-bd857836b173","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"15px"},"mobile":{"top":"0px","bottom":"15px"}},"textColor":"#404040"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Our Satisfied Customer</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/spacer {"blockId":"25c6bb4f-f961-4494-8114-af79762a9c15","spacerHeight":{"desktop":"0px","tablet":"0px","mobile":"0px"},"padding":{"desktop":{},"tablet":{},"mobile":{}},"margin":{"desktop":{},"tablet":{},"mobile":{}},"dividerAlign":{"desktop":"center","tablet":"center","mobile":"center"},"dividerHeight":{"desktop":"3px","tablet":"3px","mobile":"3px"},"dividerWidth":{"desktop":"5%","tablet":"5%","mobile":"10%"},"dividerColor":"#aad6ac"} -->
+<!-- wp:blockwheels/spacer {"blockId":"9aed478b-ff2f-4ff9-b16c-3f09fc3fd68c","spacerHeight":{"desktop":"0px","tablet":"0px","mobile":"0px"},"padding":{"desktop":{},"tablet":{},"mobile":{}},"margin":{"desktop":{},"tablet":{},"mobile":{}},"dividerAlign":{"desktop":"center","tablet":"center","mobile":"center"},"dividerHeight":{"desktop":"3px","tablet":"3px","mobile":"3px"},"dividerWidth":{"desktop":"5%","tablet":"5%","mobile":"10%"},"dividerColor":"#aad6ac"} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-center md-text-center text-center"><hr class="blockwheels-divider"/></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/paragraph {"blockId":"030d7436-1c33-4510-b149-4c717cba86d5","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"15px","bottom":"15px"},"mobile":{"top":"15px","bottom":"15px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
+<!-- wp:blockwheels/paragraph {"blockId":"ab80e14e-5c20-40de-b023-3698fb7a4e80","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"15px","bottom":"15px"},"mobile":{"top":"15px","bottom":"15px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
 <p class="blockwheels-paragraph-block">Discover the firsthand experience of our valued customers. Check their authentic review, satisfaction, and success stories.</p>
 <!-- /wp:blockwheels/paragraph -->
 
-<!-- wp:blockwheels/testimonials {"blockId":"82c68503-5b5b-4198-be77-c0a09de618b3","columns":{"desktop":2,"tablet":2,"mobile":1},"colPadding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"tablet":"","mobile":""},"backgroundColor":"#ffffff","contentLayout":"inline","enableDesignation":false,"contentAlign":{"desktop":"left","tablet":"center","mobile":"center"},"contentBorderRadius":"0px","imageRatio":"21x9","quotesColor":"#aad6ac","descriptionFontSize":{"desktop":"18px","tablet":"","mobile":""},"descriptionFontColor":"#949494","nameFontSize":{"desktop":"20px","tablet":"","mobile":""},"nameFontColor":"#c97ec6"} -->
-<div class="wp-block-blockwheels-testimonials blockwheels-testimonials-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-2 grid-cols-2 sm-text-center md-text-center text-left" data-ratio="1x1"><!-- wp:blockwheels/testimonial {"blockId":"9d4b8ffa-f099-45a3-aa7a-f49bed2497a9","presetDesign":"inline","showDesignation":false,"id":312} -->
-<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="9d4b8ffa-f099-45a3-aa7a-f49bed2497a9" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/testimonial-3.png" alt="" class="wp-image-312"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>John Smith</h6></div></div><p>Choosing BlockWheels was one of the best decisions I made for my website. They are gorgeous, user-friendly, and effortless.</p></div></div></div>
+<!-- wp:blockwheels/testimonials {"blockId":"ac2bb9d5-2d48-4060-bdd0-a9870bd521dc","columns":{"desktop":2,"tablet":2,"mobile":1},"colPadding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"tablet":"","mobile":""},"backgroundColor":"#ffffff","contentLayout":"inline","enableDesignation":false,"contentAlign":{"desktop":"left","tablet":"center","mobile":"center"},"contentBorderRadius":"0px","imageRatio":"21x9","quotesColor":"#aad6ac","descriptionFontSize":{"desktop":"18px","tablet":"","mobile":""},"descriptionFontColor":"#949494","nameFontSize":{"desktop":"20px","tablet":"","mobile":""},"nameFontColor":"#c97ec6"} -->
+<div class="wp-block-blockwheels-testimonials blockwheels-testimonials-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-2 grid-cols-2 sm-text-center md-text-center text-left" data-ratio="1x1"><!-- wp:blockwheels/testimonial {"blockId":"d838dab0-b70d-4f9e-8779-5f7bb0292a12","presetDesign":"inline","showDesignation":false,"id":312} -->
+<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="d838dab0-b70d-4f9e-8779-5f7bb0292a12" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/testimonial-3.png" alt="" class="wp-image-312"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>John Smith</h6></div></div><p>Choosing BlockWheels was one of the best decisions I made for my website. They are gorgeous, user-friendly, and effortless.</p></div></div></div>
 <!-- /wp:blockwheels/testimonial -->
 
-<!-- wp:blockwheels/testimonial {"blockId":"9d558e90-4ee8-439e-b5cb-3f3918348439","presetDesign":"inline","showDesignation":false,"id":311} -->
-<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="9d558e90-4ee8-439e-b5cb-3f3918348439" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/testimonial-2.png" alt="" class="wp-image-311"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Robin Clark</h6></div></div><p>BlockWheels exceeded my expectations in every way, the themes are stunning, effortless to navigate, making my website look gorgeous.</p></div></div></div>
+<!-- wp:blockwheels/testimonial {"blockId":"432f5bd9-edb1-4a30-823a-623c5ba4f920","presetDesign":"inline","showDesignation":false,"id":311} -->
+<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="432f5bd9-edb1-4a30-823a-623c5ba4f920" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/testimonial-2.png" alt="" class="wp-image-311"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Robin Clark</h6></div></div><p>BlockWheels exceeded my expectations in every way, the themes are stunning, effortless to navigate, making my website look gorgeous.</p></div></div></div>
 <!-- /wp:blockwheels/testimonial --></div></div>
 <!-- /wp:blockwheels/testimonials --></div>
 <!-- /wp:blockwheels/container -->]]></content:encoded>
@@ -3678,8 +3678,8 @@
 		<wp:post_id>297</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-31 07:02:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-31 07:02:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 11:26:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 11:26:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-12 03:35:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-12 03:35:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4167,64 +4167,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Reviews]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/photography-pro/reviews/</link>
-		<pubDate>Thu, 01 Aug 2024 05:47:19 +0000</pubDate>
-		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/photography-pro/?page_id=373</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:blockwheels/container {"blockId":"7b852050-2c81-427b-8c88-92066709d81e","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":"","mobile":""},"align":"wide","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"c79edfa8-f92c-490f-94d3-39aeb49b0163","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"0px"},"mobile":{"top":"0px","bottom":"0px"}},"textColor":"#404040"} -->
-<div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Our Satisfied Customer</h3></div>
-<!-- /wp:blockwheels/heading -->
-
-<!-- wp:blockwheels/spacer {"blockId":"1b1835aa-9de5-4842-a340-468a7a6fa7fa","spacerHeight":{"desktop":"0px","tablet":"0px","mobile":"0px"},"padding":{"desktop":{},"tablet":{},"mobile":{}},"margin":{"desktop":{},"tablet":{},"mobile":{}},"dividerAlign":{"desktop":"center","tablet":"center","mobile":"center"},"dividerHeight":{"desktop":"3px","tablet":"3px","mobile":"3px"},"dividerWidth":{"desktop":"5%","tablet":"5%","mobile":"10%"},"dividerColor":"#aad6ac"} -->
-<div class="wp-block-blockwheels-spacer flex sm-text-center md-text-center text-center"><hr class="blockwheels-divider"/></div>
-<!-- /wp:blockwheels/spacer -->
-
-<!-- wp:blockwheels/paragraph {"blockId":"66a8d4a8-9672-4fbd-bbc2-ba7860c24768","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"0px"},"mobile":{"top":"0px","bottom":"0px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
-<p class="blockwheels-paragraph-block">Discover the firsthand experience of our valued customers. Check their authentic review, satisfaction, and success stories.</p>
-<!-- /wp:blockwheels/paragraph -->
-
-<!-- wp:blockwheels/testimonials {"blockId":"a12afe25-b433-40dd-94a7-8f7ba15ac25c","columns":{"desktop":2,"tablet":2,"mobile":1},"colPadding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"tablet":"","mobile":""},"backgroundColor":"#ffffff","contentLayout":"inline","enableDesignation":false,"contentAlign":{"desktop":"left","tablet":"center","mobile":"center"},"contentBorderRadius":"0px","imageRatio":"21x9","quotesColor":"#aad6ac","descriptionFontSize":{"desktop":"18px","tablet":"","mobile":""},"descriptionFontColor":"#949494","nameFontSize":{"desktop":"20px","tablet":"","mobile":""},"nameFontColor":"#c97ec6"} -->
-<div class="wp-block-blockwheels-testimonials blockwheels-testimonials-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-2 grid-cols-2 sm-text-center md-text-center text-left" data-ratio="1x1"><!-- wp:blockwheels/testimonial {"blockId":"eaf93bac-54a9-4553-97a6-d512156e30aa","presetDesign":"inline","showDesignation":false,"id":312} -->
-<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="eaf93bac-54a9-4553-97a6-d512156e30aa" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/testimonial-3.png" alt="" class="wp-image-312"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>John Smith</h6></div></div><p>Choosing BlockWheels was one of the best decisions I made for my website. They are gorgeous, user-friendly, and effortless.</p></div></div></div>
-<!-- /wp:blockwheels/testimonial -->
-
-<!-- wp:blockwheels/testimonial {"blockId":"036ebf86-c596-4521-b9ea-7c0157ec0d48","presetDesign":"inline","showDesignation":false,"id":311} -->
-<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="036ebf86-c596-4521-b9ea-7c0157ec0d48" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/testimonial-2.png" alt="" class="wp-image-311"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Robin Clark</h6></div></div><p>BlockWheels exceeded my expectations in every way, the themes are stunning, effortless to navigate, making my website look gorgeous.</p></div></div></div>
-<!-- /wp:blockwheels/testimonial -->
-
-<!-- wp:blockwheels/testimonial {"blockId":"dd3928ef-db18-420c-a2eb-b7d3beaf57a4","presetDesign":"inline","showDesignation":false,"id":34} -->
-<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="dd3928ef-db18-420c-a2eb-b7d3beaf57a4" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2023/01/pexels-pavel-danilyuk-8438918.jpg" alt="" class="wp-image-34"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Mark Doe</h6></div></div><p>It has truly elevated my website experience, providing outstanding themes backed by exceptional support. If you’re looking for aesthetic excellence, simplicity, elegance, and reliability in one package, BlockWheels is the way to go.</p></div></div></div>
-<!-- /wp:blockwheels/testimonial -->
-
-<!-- wp:blockwheels/testimonial {"blockId":"4722d5be-0019-48f4-9122-55ae2a80419d","presetDesign":"inline","showDesignation":false,"id":304} -->
-<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="4722d5be-0019-48f4-9122-55ae2a80419d" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/chichi-onyekanne-yqZ7Z3ye154-unsplash.jpg" alt="" class="wp-image-304"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Sophia Doe</h6></div></div><p>The support I received was outstanding and surpassed my expectations, making the entire experience truly enjoyable. BlockWheels themes exemplify aesthetic perfection, offering a blend of simplicity, elegance, and reliability in one cohesive package.</p></div></div></div>
-<!-- /wp:blockwheels/testimonial --></div></div>
-<!-- /wp:blockwheels/testimonials --></div>
-<!-- /wp:blockwheels/container -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>373</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-01 05:47:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-01 05:47:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-01 05:47:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-01 05:47:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[reviews]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-title]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/photography-pro/2024/08/07/393/</link>
 		<pubDate>Wed, 07 Aug 2024 11:04:47 +0000</pubDate>
@@ -4509,6 +4451,30 @@
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[wpwheels]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/photography-pro/2024/08/08/wpwheels/</link>
+		<pubDate>Thu, 08 Aug 2024 10:17:39 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/photography-pro/2024/08/08/wpwheels/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>410</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-08 10:17:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-08 10:17:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-08 10:35:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-08 10:35:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpwheels]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 					<item>
 		<title><![CDATA[10 Tips for Creating a Cozy and Inviting Living Room]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/photography-pro/2023/01/10/10-tips-for-creating-a-cozy-and-inviting-living-room/</link>
@@ -5045,8 +5011,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
-		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+										<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="post_tag" nicename="diy"><![CDATA[DIY]]></category>
 		<category domain="post_tag" nicename="ideas"><![CDATA[Ideas]]></category>
 						<wp:postmeta>
@@ -5479,8 +5445,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="mind-games"><![CDATA[Mind Games]]></category>
 		<category domain="post_tag" nicename="power"><![CDATA[Power]]></category>
 						<wp:postmeta>
@@ -5615,8 +5581,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="culture"><![CDATA[Culture]]></category>
-		<category domain="post_tag" nicename="culture"><![CDATA[Culture]]></category>
+										<category domain="post_tag" nicename="culture"><![CDATA[Culture]]></category>
+		<category domain="category" nicename="culture"><![CDATA[Culture]]></category>
 		<category domain="post_tag" nicename="folklore"><![CDATA[Folklore]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5692,88 +5658,14 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
-		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+										<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="post_tag" nicename="diy"><![CDATA[DIY]]></category>
 		<category domain="post_tag" nicename="ideas"><![CDATA[Ideas]]></category>
 		<category domain="post_tag" nicename="small-space"><![CDATA[Small Space]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[82]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[The Trend of Plant-Based Diet]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/photography-pro/2023/01/11/the-trend-of-plant-based-diet/</link>
-		<pubDate>Wed, 11 Jan 2023 04:22:50 +0000</pubDate>
-		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.aarambhathemes.com/block-aarambha/?p=69</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet. Et debitis explicabo qui voluptatum eaque aut minus rerum. Est neque quia ut laudantium iste vel dicta adipisci! At itaque fuga vel omnis voluptates ut excepturi praesentium et Quis earum est sequi reiciendis. Vel consequuntur sint ut eligendi eveniet quo autem quia ut nostrum perferendis est voluptas ducimus ab cupiditate quam non sint temporibus. Ad unde rerum nam voluptates nobis et ratione iure ex tempore dicta eum galisum iste ex iste magni!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>In excepturi dolorum et ullam odit est consequatur ducimus eos obcaecati doloremque.</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2023/01/dose-juice-sTPy-oeA3h0-unsplash-819x1024.jpg" alt="" class="wp-image-121" /></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":123,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2023/01/pexels-lisa-fotios-1351238-edited.jpg" alt="" class="wp-image-123" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":124,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2023/01/anna-pelzer-IGfIGP5ONV0-unsplash-edited.jpg" alt="" class="wp-image-124" /></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:paragraph -->
-<p>Et sunt numquam sed aspernatur nobis est laboriosam omnis et enim labore qui vero iusto id magni aliquam. Aut galisum ullam qui quia velit vel voluptas officiis non consequuntur totam est quam doloremque ab mollitia enim. In voluptatem quibusdam est omnis ullam est internos nostrum ut molestiae architecto in earum deleniti aut molestiae quidem aut nihil expedita! Ut quos galisum et dolores doloribus qui earum quaerat ea adipisci inventore. Qui error officiis ut veritatis inventore ut aliquid aperiam ut laboriosam sapiente ut dolor galisum est accusamus deleniti ut totam corporis. Est magnam rerum et distinctio molestiae et quia nostrum ea necessitatibus sunt ad assumenda quasi. Eum voluptates incidunt vel alias quod non nobis perferendis aut quia architecto aut ipsum voluptatem est possimus odio ut voluptatem quia! Quo eaque fuga et magnam tenetur et fugit velit qui natus praesentium et iusto numquam sit minus dolorum ea consequatur sunt. Id sunt voluptatem aut aliquam reiciendis ea quae dolor id repellendus illo ea corrupti deserunt aut itaque voluptate ut itaque corporis.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Qui blanditiis molestias in natus natus ex soluta obcaecati ut esse rerum et nemo provident. Ea veritatis dolores et officiis nisi 33 unde vero et culpa illum. Qui molestias molestiae hic velit explicabo aut odit voluptatem qui adipisci iste. Eum nemo vero ex inventore incidunt vel rerum tenetur sed quod quae qui quia dolor et atque ipsum. Et soluta quos et voluptate magni est harum dolores sed minus galisum in temporibus veritatis et error consequatur. Quo tenetur assumenda ut obcaecati expedita eum possimus voluptatem non eaque sapiente. Et repellendus ipsum est voluptatem esse qui velit obcaecati est recusandae molestias a tempore repellat rem eius distinctio. Ut voluptas quas ut laudantium cumque ut eligendi debitis est officiis suscipit et galisum ipsam. Qui incidunt ratione qui dolore iusto ea placeat labore qui cupiditate Quis qui eaque libero.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>69</wp:post_id>
-		<wp:post_date><![CDATA[2023-01-11 04:22:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-01-11 04:22:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-11 04:22:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-11 04:22:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-trend-of-plant-based-diet]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="balance-diet"><![CDATA[Balance Diet]]></category>
-		<category domain="category" nicename="food"><![CDATA[Food]]></category>
-		<category domain="post_tag" nicename="organic"><![CDATA[Organic]]></category>
-		<category domain="post_tag" nicename="trending"><![CDATA[Trending]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[89]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5857,6 +5749,64 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title><![CDATA[Reviews]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/photography-pro/reviews/</link>
+		<pubDate>Thu, 01 Aug 2024 05:47:19 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/photography-pro/?page_id=373</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:blockwheels/container {"blockId":"7b852050-2c81-427b-8c88-92066709d81e","padding":{"desktop":{"top":"80px","right":"0px","bottom":"80px","left":"0px"},"tablet":"","mobile":""},"align":"wide","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignwide block-core-columns blockwheels-container"><!-- wp:blockwheels/heading {"blockId":"c79edfa8-f92c-490f-94d3-39aeb49b0163","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"0px"},"mobile":{"top":"0px","bottom":"0px"}},"textColor":"#404040"} -->
+<div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Our Satisfied Customer</h3></div>
+<!-- /wp:blockwheels/heading -->
+
+<!-- wp:blockwheels/spacer {"blockId":"1b1835aa-9de5-4842-a340-468a7a6fa7fa","spacerHeight":{"desktop":"0px","tablet":"0px","mobile":"0px"},"padding":{"desktop":{},"tablet":{},"mobile":{}},"margin":{"desktop":{},"tablet":{},"mobile":{}},"dividerAlign":{"desktop":"center","tablet":"center","mobile":"center"},"dividerHeight":{"desktop":"3px","tablet":"3px","mobile":"3px"},"dividerWidth":{"desktop":"5%","tablet":"5%","mobile":"10%"},"dividerColor":"#aad6ac"} -->
+<div class="wp-block-blockwheels-spacer flex sm-text-center md-text-center text-center"><hr class="blockwheels-divider"/></div>
+<!-- /wp:blockwheels/spacer -->
+
+<!-- wp:blockwheels/paragraph {"blockId":"66a8d4a8-9672-4fbd-bbc2-ba7860c24768","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"20px"},"tablet":{"top":"0px","bottom":"0px"},"mobile":{"top":"0px","bottom":"0px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
+<p class="blockwheels-paragraph-block">Discover the firsthand experience of our valued customers. Check their authentic review, satisfaction, and success stories.</p>
+<!-- /wp:blockwheels/paragraph -->
+
+<!-- wp:blockwheels/testimonials {"blockId":"a12afe25-b433-40dd-94a7-8f7ba15ac25c","columns":{"desktop":2,"tablet":2,"mobile":1},"colPadding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"tablet":"","mobile":""},"backgroundColor":"#ffffff","contentLayout":"inline","enableDesignation":false,"contentAlign":{"desktop":"left","tablet":"center","mobile":"center"},"contentBorderRadius":"0px","imageRatio":"21x9","quotesColor":"#aad6ac","descriptionFontSize":{"desktop":"18px","tablet":"","mobile":""},"descriptionFontColor":"#949494","nameFontSize":{"desktop":"20px","tablet":"","mobile":""},"nameFontColor":"#c97ec6"} -->
+<div class="wp-block-blockwheels-testimonials blockwheels-testimonials-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-2 grid-cols-2 sm-text-center md-text-center text-left" data-ratio="1x1"><!-- wp:blockwheels/testimonial {"blockId":"eaf93bac-54a9-4553-97a6-d512156e30aa","presetDesign":"inline","showDesignation":false,"id":312} -->
+<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="eaf93bac-54a9-4553-97a6-d512156e30aa" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/testimonial-3.png" alt="" class="wp-image-312"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>John Smith</h6></div></div><p>Choosing BlockWheels was one of the best decisions I made for my website. They are gorgeous, user-friendly, and effortless.</p></div></div></div>
+<!-- /wp:blockwheels/testimonial -->
+
+<!-- wp:blockwheels/testimonial {"blockId":"036ebf86-c596-4521-b9ea-7c0157ec0d48","presetDesign":"inline","showDesignation":false,"id":311} -->
+<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="036ebf86-c596-4521-b9ea-7c0157ec0d48" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/testimonial-2.png" alt="" class="wp-image-311"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Robin Clark</h6></div></div><p>BlockWheels exceeded my expectations in every way, the themes are stunning, effortless to navigate, making my website look gorgeous.</p></div></div></div>
+<!-- /wp:blockwheels/testimonial -->
+
+<!-- wp:blockwheels/testimonial {"blockId":"dd3928ef-db18-420c-a2eb-b7d3beaf57a4","presetDesign":"inline","showDesignation":false,"id":34} -->
+<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="dd3928ef-db18-420c-a2eb-b7d3beaf57a4" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2023/01/pexels-pavel-danilyuk-8438918.jpg" alt="" class="wp-image-34"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Mark Doe</h6></div></div><p>It has truly elevated my website experience, providing outstanding themes backed by exceptional support. If you’re looking for aesthetic excellence, simplicity, elegance, and reliability in one package, BlockWheels is the way to go.</p></div></div></div>
+<!-- /wp:blockwheels/testimonial -->
+
+<!-- wp:blockwheels/testimonial {"blockId":"4722d5be-0019-48f4-9122-55ae2a80419d","presetDesign":"inline","showDesignation":false,"id":304} -->
+<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="4722d5be-0019-48f4-9122-55ae2a80419d" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/chichi-onyekanne-yqZ7Z3ye154-unsplash.jpg" alt="" class="wp-image-304"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Sophia Doe</h6></div></div><p>The support I received was outstanding and surpassed my expectations, making the entire experience truly enjoyable. BlockWheels themes exemplify aesthetic perfection, offering a blend of simplicity, elegance, and reliability in one cohesive package.</p></div></div></div>
+<!-- /wp:blockwheels/testimonial --></div></div>
+<!-- /wp:blockwheels/testimonials --></div>
+<!-- /wp:blockwheels/container -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>373</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-01 05:47:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-01 05:47:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-01 05:47:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-01 05:47:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[reviews]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/photography-pro/contact/</link>
@@ -6037,6 +5987,80 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[The Trend of Plant-Based Diet]]></title>
+		<link>https://demo.wpwheels.com/blockwheels/photography-pro/2023/01/11/the-trend-of-plant-based-diet/</link>
+		<pubDate>Wed, 11 Jan 2023 04:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[superuser]]></dc:creator>
+		<guid isPermaLink="false">https://demo.aarambhathemes.com/block-aarambha/?p=69</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet. Et debitis explicabo qui voluptatum eaque aut minus rerum. Est neque quia ut laudantium iste vel dicta adipisci! At itaque fuga vel omnis voluptates ut excepturi praesentium et Quis earum est sequi reiciendis. Vel consequuntur sint ut eligendi eveniet quo autem quia ut nostrum perferendis est voluptas ducimus ab cupiditate quam non sint temporibus. Ad unde rerum nam voluptates nobis et ratione iure ex tempore dicta eum galisum iste ex iste magni!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>In excepturi dolorum et ullam odit est consequatur ducimus eos obcaecati doloremque.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2023/01/dose-juice-sTPy-oeA3h0-unsplash-819x1024.jpg" alt="" class="wp-image-121" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":123,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2023/01/pexels-lisa-fotios-1351238-edited.jpg" alt="" class="wp-image-123" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":124,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2023/01/anna-pelzer-IGfIGP5ONV0-unsplash-edited.jpg" alt="" class="wp-image-124" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>Et sunt numquam sed aspernatur nobis est laboriosam omnis et enim labore qui vero iusto id magni aliquam. Aut galisum ullam qui quia velit vel voluptas officiis non consequuntur totam est quam doloremque ab mollitia enim. In voluptatem quibusdam est omnis ullam est internos nostrum ut molestiae architecto in earum deleniti aut molestiae quidem aut nihil expedita! Ut quos galisum et dolores doloribus qui earum quaerat ea adipisci inventore. Qui error officiis ut veritatis inventore ut aliquid aperiam ut laboriosam sapiente ut dolor galisum est accusamus deleniti ut totam corporis. Est magnam rerum et distinctio molestiae et quia nostrum ea necessitatibus sunt ad assumenda quasi. Eum voluptates incidunt vel alias quod non nobis perferendis aut quia architecto aut ipsum voluptatem est possimus odio ut voluptatem quia! Quo eaque fuga et magnam tenetur et fugit velit qui natus praesentium et iusto numquam sit minus dolorum ea consequatur sunt. Id sunt voluptatem aut aliquam reiciendis ea quae dolor id repellendus illo ea corrupti deserunt aut itaque voluptate ut itaque corporis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Qui blanditiis molestias in natus natus ex soluta obcaecati ut esse rerum et nemo provident. Ea veritatis dolores et officiis nisi 33 unde vero et culpa illum. Qui molestias molestiae hic velit explicabo aut odit voluptatem qui adipisci iste. Eum nemo vero ex inventore incidunt vel rerum tenetur sed quod quae qui quia dolor et atque ipsum. Et soluta quos et voluptate magni est harum dolores sed minus galisum in temporibus veritatis et error consequatur. Quo tenetur assumenda ut obcaecati expedita eum possimus voluptatem non eaque sapiente. Et repellendus ipsum est voluptatem esse qui velit obcaecati est recusandae molestias a tempore repellat rem eius distinctio. Ut voluptas quas ut laudantium cumque ut eligendi debitis est officiis suscipit et galisum ipsam. Qui incidunt ratione qui dolore iusto ea placeat labore qui cupiditate Quis qui eaque libero.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2023-01-11 04:22:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-01-11 04:22:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-01-11 04:22:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-11 04:22:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-trend-of-plant-based-diet]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="balance-diet"><![CDATA[Balance Diet]]></category>
+		<category domain="category" nicename="food"><![CDATA[Food]]></category>
+		<category domain="post_tag" nicename="organic"><![CDATA[Organic]]></category>
+		<category domain="post_tag" nicename="trending"><![CDATA[Trending]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[89]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6378,15 +6402,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"categories":["header"],"patternName":"core/header-inside-full-width-background-image","name":"Header inside full-width background image"},"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/conor-luddy-IVaKksEZmZA-unsplash.jpg","id":363,"hasParallax":true,"dimRatio":70,"overlayColor":"black","isUserOverlayColor":true,"minHeight":50,"contentPosition":"center center","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
-<div class="wp-block-cover alignfull has-parallax" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);min-height:50px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-70 has-background-dim"></span><div class="wp-block-cover__image-background wp-image-363 has-parallax" style="background-position:50% 50%;background-image:url(https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/conor-luddy-IVaKksEZmZA-unsplash.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|x-small","bottom":"var:preset|spacing|x-small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}}},"textColor":"base","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
+<div class="wp-block-cover alignfull has-parallax" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);min-height:50px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-70 has-background-dim"></span><div class="wp-block-cover__image-background wp-image-363 has-parallax" style="background-position:50% 50%;background-image:url(https://demo.wpwheels.com/blockwheels/photography-pro/wp-content/uploads/sites/5/2024/07/conor-luddy-IVaKksEZmZA-unsplash.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|x-small","bottom":"var:preset|spacing|x-small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}}},"textColor":"base","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide has-base-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--x-small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--x-small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:group {"layout":{"type":"flex"}} -->
 <div class="wp-block-group"><!-- wp:site-logo {"width":319,"shouldSyncIcon":true,"className":"is-style-default"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:navigation {"ref":399,"layout":{"type":"flex","justifyContent":"center"}} /--></div>
+<!-- wp:navigation {"ref":399,"layout":{"type":"flex","justifyContent":"left","orientation":"horizontal","flexWrap":"wrap"}} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:blockwheels/heading {"blockId":"2fc222aa-726a-4981-9651-24a5bd10ae06","tagName":"h1","alignment":{"desktop":"center","tablet":"left","mobile":"left"},"padding":{"desktop":{"top":"100px","right":"50px","bottom":"100px","left":"50px"},"tablet":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"mobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"fontFamily":"great_vibes","textColor":"#ffffff"} -->
+<!-- wp:blockwheels/heading {"blockId":"7933c04a-fd46-4279-8701-9cd51478ecea","tagName":"h1","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"100px","right":"50px","bottom":"100px","left":"50px"},"tablet":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"mobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"fontFamily":"great_vibes","textColor":"#ffffff"} -->
 <div class="blockwheels-heading-section" title=""><h1 class="blockwheels-heading">Your Story Through Our Lens</h1></div>
 <!-- /wp:blockwheels/heading --></div></div>
 <!-- /wp:cover --></div>
@@ -6395,8 +6419,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>338</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-31 07:30:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-31 07:30:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 11:08:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 11:08:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-12 03:39:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-12 03:39:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -6667,30 +6691,6 @@ This email is a receipt for your contact form submission on our website ([_site_
 							</item>
 					<item>
 		<title><![CDATA[Primary Menu]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/photography-pro/2024/08/07/primary-menu/</link>
-		<pubDate>Wed, 07 Aug 2024 11:06:11 +0000</pubDate>
-		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/photography-pro/2024/08/07/primary-menu/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page menu-item-home","description":"","id":"297","kind":"post-type","label":"Home","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/photography-pro/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"365","kind":"post-type","label":"Portfolio","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/photography-pro/portfolio/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"373","kind":"post-type","label":"Reviews","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/photography-pro/reviews/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"370","kind":"post-type","label":"Pricing Plan","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/photography-pro/pricing-plan/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"332","kind":"post-type","label":"Blog","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/photography-pro/blog/"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>398</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-07 11:06:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-07 11:06:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 11:06:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 11:06:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[primary-menu]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Primary Menu]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/photography-pro/2024/08/07/primary-menu-2/</link>
 		<pubDate>Wed, 07 Aug 2024 11:06:45 +0000</pubDate>
 		<dc:creator><![CDATA[superuser]]></dc:creator>
@@ -6704,13 +6704,19 @@ This email is a receipt for your contact form submission on our website ([_site_
 
 <!-- wp:navigation-link {"label":"Pricing Plan","type":"page","id":370,"url":"https://demo.wpwheels.com/blockwheels/photography-pro/pricing-plan/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":332,"url":"https://demo.wpwheels.com/blockwheels/photography-pro/blog/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":332,"url":"https://demo.wpwheels.com/blockwheels/photography-pro/blog/","kind":"post-type","isTopLevelLink":true} /-->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"secondary","textColor":"contrast","className":"is-style-fill","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}}} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-contrast-color has-secondary-background-color has-text-color has-background has-link-color wp-element-button" href="https://demo.wpwheels.com/blockwheels/photography-pro/contact/">Contact</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>399</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-07 11:06:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-07 11:06:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-07 11:06:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-07 11:06:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-08 08:33:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-08 08:33:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[primary-menu-2]]></wp:post_name>
