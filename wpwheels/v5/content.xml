@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-13 09:58" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-13 11:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Law Pro</title>
 	<link>https://demo.wpwheels.com/blockwheels/law-pro</link>
 	<description></description>
-	<pubDate>Tue, 13 Aug 2024 09:58:05 +0000</pubDate>
+	<pubDate>Tue, 13 Aug 2024 11:11:12 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.wpwheels.com/blockwheels/</wp:base_site_url>
@@ -3597,195 +3597,195 @@
 		<dc:creator><![CDATA[superuser]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/law-pro/?page_id=300</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:blockwheels/container {"blockId":"973ec5f0-2110-40d6-b6e0-674449c7caad","padding":{"desktop":{"top":"0px","right":"80px","bottom":"80px","left":"80px"},"tablet":{"top":"60px","bottom":"60px","right":"15px","left":"15px"},"mobile":{"top":"60px","right":"15px","bottom":"60px","left":"15px"}},"align":"full","className":"blockwheels-container"} -->
-<div class="wp-block-blockwheels-container alignfull block-core-columns blockwheels-container"><!-- wp:blockwheels/hero-slider {"blockId":"0eee4ea8-9ec6-4560-af6e-f2323d2d9acc","colPadding":{"desktop":"","tablet":"","mobile":{}},"backgroundColor":"#091c2d","contentLayout":"style-2","enableButtons":true,"contentAlign":{"desktop":"left","tablet":"center","mobile":"center"},"contentPadding":{"desktop":{"top":"230px","right":"80px","bottom":"40px","left":"80px"},"tablet":{"top":"20px","right":"20px","bottom":"40px","left":"20px"},"mobile":{"top":"20px","right":"36px","bottom":"40px","left":"36px"}},"contentMargin":{"desktop":{},"tablet":"","mobile":""},"arrowsColor":"#ffffff","arrowsBgColor":"#ffb109","arrowsBorderRadius":"49.7%","subHeadingLetterCase":"uppercase","subHeadingFontColor":"#ffb109","nameFontColor":"#ffffff","descriptionFontSize":{"tablet":"","mobile":""},"descriptionFontColor":"#ffffff","buttonBorderWidth":"2px","buttonBorderRadius":"0px","buttonItemsGap":{"desktop":"2px","tablet":"5px","mobile":"5px"},"buttonBgColor":"#ffb109","buttonBorderColor":"#0000000a","buttonLetterSpacing":{"desktop":"0px","tablet":"","mobile":""},"buttonPadding":{"desktop":{"top":"8px","right":"16px","bottom":"8px","left":"16px"},"tablet":{"top":"4px","right":"12px","bottom":"4px","left":"12px"},"mobile":{"top":"4px","right":"12px","bottom":"4px","left":"12px"}}} -->
-<div class="wp-block-blockwheels-hero-slider blockwheels-hero-slider-container sm-text-center md-text-center text-left"><div class="splide" data-pagination="false" data-arrows="true" data-speed="400" data-drag="true" data-autoplay="false" data-interval="7000" data-lg-col="1" data-lg-gap="0px" data-md-col="1" data-md-gap="0px" data-sm-col="1" data-sm-gap="0px" data-arrows-position="center"><div class="splide__track grid gap image-ratio" data-ratio="auto"><ul class="splide__list"><!-- wp:blockwheels/hero-slide {"blockId":"7e8026cf-581f-4b15-8576-13294af6862d","presetDesign":"style-2","showButtons":true,"contentBgGradient":"linear-gradient(0deg,rgb(9,28,45) 1%,rgba(9,29,46,0) 100%)","id":311} -->
-<li class="splide__slide"><div class="wp-block-blockwheels-hero-slide blockwheels-hero-slide-wrapper flex flex-column" data-id="7e8026cf-581f-4b15-8576-13294af6862d" data-layout="style-2"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/giammarco-boscaro-OPzWvgL-upY-unsplash.jpg" alt="" class="wp-image-311"/></a></figure><div class="wp-block-content has-image"><span>law -  firm </span><h6>Advocating for Justice, One Case at a Time</h6><p>"Your trusted legal ally, dedicated to delivering expert counsel and unwavering support for your unique legal needs."</p><div class="slide-buttons"><ul><li data-icon="VIEW MORE"><a href="#" rel="noopener">VIEW MORE</a></li></ul></div></div></div></li>
+		<content:encoded><![CDATA[<!-- wp:blockwheels/container {"blockId":"a98ec8e2-8b41-404f-b7f3-b7aaed7a4e3b","padding":{"desktop":{"top":"0px","right":"80px","bottom":"80px","left":"80px"},"tablet":{"top":"60px","bottom":"60px","right":"15px","left":"15px"},"mobile":{"top":"0px","right":"15px","bottom":"60px","left":"15px"}},"align":"full","className":"blockwheels-container"} -->
+<div class="wp-block-blockwheels-container alignfull block-core-columns blockwheels-container"><!-- wp:blockwheels/hero-slider {"blockId":"171c4e08-3b81-4f35-898e-1dac619248a6","colPadding":{"desktop":"","tablet":"","mobile":{}},"backgroundColor":"#091c2d","contentLayout":"style-2","enableButtons":true,"contentAlign":{"desktop":"left","tablet":"center","mobile":"center"},"contentPadding":{"desktop":{"top":"230px","right":"80px","bottom":"40px","left":"80px"},"tablet":{"top":"20px","right":"20px","bottom":"40px","left":"20px"},"mobile":{"top":"20px","right":"36px","bottom":"40px","left":"36px"}},"contentMargin":{"desktop":{},"tablet":"","mobile":""},"arrowsColor":"#ffffff","arrowsBgColor":"#ffb109","arrowsBorderRadius":"49.7%","imageMinHeight":{"desktop":"520px","tablet":"400px","mobile":"350px"},"subHeadingLetterCase":"uppercase","subHeadingFontColor":"#ffb109","nameFontColor":"#ffffff","descriptionFontSize":{"tablet":"","mobile":""},"descriptionFontColor":"#ffffff","buttonBorderWidth":"2px","buttonBorderRadius":"0px","buttonItemsGap":{"desktop":"2px","tablet":"5px","mobile":"5px"},"buttonBgColor":"#ffb109","buttonBorderColor":"#0000000a","buttonLetterSpacing":{"desktop":"0px","tablet":"","mobile":""},"buttonPadding":{"desktop":{"top":"8px","right":"16px","bottom":"8px","left":"16px"},"tablet":{"top":"4px","right":"12px","bottom":"4px","left":"12px"},"mobile":{"top":"4px","right":"12px","bottom":"4px","left":"12px"}}} -->
+<div class="wp-block-blockwheels-hero-slider blockwheels-hero-slider-container sm-text-center md-text-center text-left"><div class="splide" data-pagination="false" data-arrows="true" data-speed="400" data-drag="true" data-autoplay="false" data-interval="7000" data-lg-col="1" data-lg-gap="0px" data-md-col="1" data-md-gap="0px" data-sm-col="1" data-sm-gap="0px" data-arrows-position="center"><div class="splide__track grid gap image-ratio" data-ratio="auto"><ul class="splide__list"><!-- wp:blockwheels/hero-slide {"blockId":"f584666e-2536-40cc-a172-becacee88a62","presetDesign":"style-2","showButtons":true,"contentBgGradient":"linear-gradient(0deg,rgb(9,28,45) 1%,rgba(9,29,46,0) 100%)","id":311} -->
+<li class="splide__slide"><div class="wp-block-blockwheels-hero-slide blockwheels-hero-slide-wrapper flex flex-column" data-id="f584666e-2536-40cc-a172-becacee88a62" data-layout="style-2"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/giammarco-boscaro-OPzWvgL-upY-unsplash.jpg" alt="" class="wp-image-311"/></a></figure><div class="wp-block-content has-image"><span>law -  firm </span><h6>Advocating for Justice, One Case at a Time</h6><p>"Your trusted legal ally, dedicated to delivering expert counsel and unwavering support for your unique legal needs."</p><div class="slide-buttons"><ul><li data-icon="VIEW MORE"><a href="#" rel="noopener">VIEW MORE</a></li></ul></div></div></div></li>
 <!-- /wp:blockwheels/hero-slide -->
 
-<!-- wp:blockwheels/hero-slide {"blockId":"18c6fb1b-f503-42f4-8119-fdb0a2bee9af","presetDesign":"style-2","showButtons":true,"contentBgGradient":"linear-gradient(0deg,rgb(9,28,45) 1%,rgba(9,29,46,0) 100%)","id":304} -->
-<li class="splide__slide"><div class="wp-block-blockwheels-hero-slide blockwheels-hero-slide-wrapper flex flex-column" data-id="18c6fb1b-f503-42f4-8119-fdb0a2bee9af" data-layout="style-2"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/tingey-injury-law-firm-nSpj-Z12lX0-unsplash.jpg" alt="" class="wp-image-304"/></a></figure><div class="wp-block-content has-image"><span>law -  firm </span><h6>Legal Excellence, Trusted Advocacy.</h6><p>"Your trusted legal ally, dedicated to delivering expert counsel and unwavering support for your unique legal needs."</p><div class="slide-buttons"><ul><li data-icon="VIEW MORE"><a href="#" rel="noopener">VIEW MORE</a></li></ul></div></div></div></li>
+<!-- wp:blockwheels/hero-slide {"blockId":"79a7c0a6-79a9-478e-bf7d-6a6465059b99","presetDesign":"style-2","showButtons":true,"contentBgGradient":"linear-gradient(0deg,rgb(9,28,45) 1%,rgba(9,29,46,0) 100%)","id":304} -->
+<li class="splide__slide"><div class="wp-block-blockwheels-hero-slide blockwheels-hero-slide-wrapper flex flex-column" data-id="79a7c0a6-79a9-478e-bf7d-6a6465059b99" data-layout="style-2"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/tingey-injury-law-firm-nSpj-Z12lX0-unsplash.jpg" alt="" class="wp-image-304"/></a></figure><div class="wp-block-content has-image"><span>law -  firm </span><h6>Legal Excellence, Trusted Advocacy.</h6><p>"Your trusted legal ally, dedicated to delivering expert counsel and unwavering support for your unique legal needs."</p><div class="slide-buttons"><ul><li data-icon="VIEW MORE"><a href="#" rel="noopener">VIEW MORE</a></li></ul></div></div></div></li>
 <!-- /wp:blockwheels/hero-slide --></ul></div></div></div>
 <!-- /wp:blockwheels/hero-slider -->
 
-<!-- wp:blockwheels/counters {"blockId":"0c3d1163-395d-4940-be93-ee93f9e76340","columns":{"desktop":4,"tablet":2,"mobile":1},"colBorderRadius":"","colPadding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"tablet":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"colBorderSize":{"top":"0px","right":"0px","bottom":"4px","left":"0px"},"colBorderColor":"#ffb109","colBgColor":"#091c2d","numberFontSize":{"desktop":"56px","tablet":"","mobile":"20px"},"numberFontColor":"#fefefe","nameFontSize":{"desktop":"18px","tablet":"","mobile":""},"nameLetterCase":"uppercase","nameFontColor":"#fefefe","descFontColor":"#949494","enableImage":true,"className":"blockwheels-counters-container"} -->
-<div class="wp-block-blockwheels-counters grid gap sm-grid-cols-1 md-grid-cols-2 grid-cols-4 blockwheels-counters-container"><!-- wp:blockwheels/counter {"blockId":"8c33c6c6-64d4-4b19-963d-f9cfa6d64c52","iconColor":"#ffffff","iconBgColor":"#ffb109","counterIcon":"fas_trophy","numberEnd":14,"showImage":true} -->
-<div class="wp-block-blockwheels-counter blockwheels-counter-wrapper flex sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="8c33c6c6-64d4-4b19-963d-f9cfa6d64c52"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 576 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M552 64H448V24c0-13.3-10.7-24-24-24H152c-13.3 0-24 10.7-24 24v40H24C10.7 64 0 74.7 0 88v56c0 35.7 22.5 72.4 61.9 100.7 31.5 22.7 69.8 37.1 110 41.7C203.3 338.5 240 360 240 360v72h-48c-35.3 0-64 20.7-64 56v12c0 6.6 5.4 12 12 12h296c6.6 0 12-5.4 12-12v-12c0-35.3-28.7-56-64-56h-48v-72s36.7-21.5 68.1-73.6c40.3-4.6 78.6-19 110-41.7 39.3-28.3 61.9-65 61.9-100.7V88c0-13.3-10.7-24-24-24zM99.3 192.8C74.9 175.2 64 155.6 64 144v-16h64.2c1 32.6 5.8 61.2 12.8 86.2-15.1-5.2-29.2-12.4-41.7-21.4zM512 144c0 16.1-17.7 36.1-35.3 48.8-12.5 9-26.7 16.2-41.8 21.4 7-25 11.8-53.6 12.8-86.2H512v16z"></path></svg></div><div class="wp-block-content blockwheels-counter" data-start="0" data-end="14" data-duration="2.5" data-separator=""><div class="flex flex-column"><div class="blockwheels-counter-process blockwheels-counter-number"></div><h4>Awards Wining</h4></div></div></div>
+<!-- wp:blockwheels/counters {"blockId":"28f01440-4c36-4501-87a7-1ec89378d0b2","columns":{"desktop":4,"tablet":2,"mobile":1},"colBorderRadius":"","colPadding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"tablet":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"colBorderSize":{"top":"0px","right":"0px","bottom":"4px","left":"0px"},"colBorderColor":"#ffb109","colBgColor":"#091c2d","numberFontSize":{"desktop":"56px","tablet":"","mobile":"20px"},"numberFontColor":"#fefefe","nameFontSize":{"desktop":"18px","tablet":"","mobile":"20px"},"nameLetterCase":"uppercase","nameFontColor":"#fefefe","descFontColor":"#949494","enableImage":true,"className":"blockwheels-counters-container"} -->
+<div class="wp-block-blockwheels-counters grid gap sm-grid-cols-1 md-grid-cols-2 grid-cols-4 blockwheels-counters-container"><!-- wp:blockwheels/counter {"blockId":"b2a28b99-b01b-48a6-b1e8-0c1f493f88f9","iconColor":"#ffffff","iconBgColor":"#ffb109","counterIcon":"fas_trophy","numberEnd":14,"showImage":true} -->
+<div class="wp-block-blockwheels-counter blockwheels-counter-wrapper flex sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="b2a28b99-b01b-48a6-b1e8-0c1f493f88f9"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 576 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M552 64H448V24c0-13.3-10.7-24-24-24H152c-13.3 0-24 10.7-24 24v40H24C10.7 64 0 74.7 0 88v56c0 35.7 22.5 72.4 61.9 100.7 31.5 22.7 69.8 37.1 110 41.7C203.3 338.5 240 360 240 360v72h-48c-35.3 0-64 20.7-64 56v12c0 6.6 5.4 12 12 12h296c6.6 0 12-5.4 12-12v-12c0-35.3-28.7-56-64-56h-48v-72s36.7-21.5 68.1-73.6c40.3-4.6 78.6-19 110-41.7 39.3-28.3 61.9-65 61.9-100.7V88c0-13.3-10.7-24-24-24zM99.3 192.8C74.9 175.2 64 155.6 64 144v-16h64.2c1 32.6 5.8 61.2 12.8 86.2-15.1-5.2-29.2-12.4-41.7-21.4zM512 144c0 16.1-17.7 36.1-35.3 48.8-12.5 9-26.7 16.2-41.8 21.4 7-25 11.8-53.6 12.8-86.2H512v16z"></path></svg></div><div class="wp-block-content blockwheels-counter" data-start="0" data-end="14" data-duration="2.5" data-separator=""><div class="flex flex-column"><div class="blockwheels-counter-process blockwheels-counter-number"></div><h4>Awards Wining</h4></div></div></div>
 <!-- /wp:blockwheels/counter -->
 
-<!-- wp:blockwheels/counter {"blockId":"53cb46fe-93df-49b4-bbbb-da27a34013b1","iconColor":"#ffffff","iconBgColor":"#ffb109","counterIcon":"fas_calendar-check","numberEnd":8,"numberSuffix":"+","showImage":true} -->
-<div class="wp-block-blockwheels-counter blockwheels-counter-wrapper flex sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="53cb46fe-93df-49b4-bbbb-da27a34013b1"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 448 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M436 160H12c-6.627 0-12-5.373-12-12v-36c0-26.51 21.49-48 48-48h48V12c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v52h128V12c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v52h48c26.51 0 48 21.49 48 48v36c0 6.627-5.373 12-12 12zM12 192h424c6.627 0 12 5.373 12 12v260c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V204c0-6.627 5.373-12 12-12zm333.296 95.947l-28.169-28.398c-4.667-4.705-12.265-4.736-16.97-.068L194.12 364.665l-45.98-46.352c-4.667-4.705-12.266-4.736-16.971-.068l-28.397 28.17c-4.705 4.667-4.736 12.265-.068 16.97l82.601 83.269c4.667 4.705 12.265 4.736 16.97.068l142.953-141.805c4.705-4.667 4.736-12.265.068-16.97z"></path></svg></div><div class="wp-block-content blockwheels-counter" data-start="0" data-end="8" data-suffix="+" data-duration="2.5" data-separator=""><div class="flex flex-column"><div class="blockwheels-counter-process blockwheels-counter-number"></div><h4>WP Years</h4></div></div></div>
+<!-- wp:blockwheels/counter {"blockId":"2438e588-3394-4d2a-bd70-751dd11a7cf2","iconColor":"#ffffff","iconBgColor":"#ffb109","counterIcon":"fas_calendar-check","numberEnd":8,"numberSuffix":"+","showImage":true} -->
+<div class="wp-block-blockwheels-counter blockwheels-counter-wrapper flex sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="2438e588-3394-4d2a-bd70-751dd11a7cf2"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 448 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M436 160H12c-6.627 0-12-5.373-12-12v-36c0-26.51 21.49-48 48-48h48V12c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v52h128V12c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v52h48c26.51 0 48 21.49 48 48v36c0 6.627-5.373 12-12 12zM12 192h424c6.627 0 12 5.373 12 12v260c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V204c0-6.627 5.373-12 12-12zm333.296 95.947l-28.169-28.398c-4.667-4.705-12.265-4.736-16.97-.068L194.12 364.665l-45.98-46.352c-4.667-4.705-12.266-4.736-16.971-.068l-28.397 28.17c-4.705 4.667-4.736 12.265-.068 16.97l82.601 83.269c4.667 4.705 12.265 4.736 16.97.068l142.953-141.805c4.705-4.667 4.736-12.265.068-16.97z"></path></svg></div><div class="wp-block-content blockwheels-counter" data-start="0" data-end="8" data-suffix="+" data-duration="2.5" data-separator=""><div class="flex flex-column"><div class="blockwheels-counter-process blockwheels-counter-number"></div><h4>WP Years</h4></div></div></div>
 <!-- /wp:blockwheels/counter -->
 
-<!-- wp:blockwheels/counter {"blockId":"c2144e73-40f4-46c7-bd1f-38a0c7608622","iconColor":"#ffffff","iconBgColor":"#ffb109","counterIcon":"fas_smile","numberEnd":478,"numberSuffix":"k","showImage":true} -->
-<div class="wp-block-blockwheels-counter blockwheels-counter-wrapper flex sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="c2144e73-40f4-46c7-bd1f-38a0c7608622"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 496 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm80 168c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zm-160 0c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zm194.8 170.2C334.3 380.4 292.5 400 248 400s-86.3-19.6-114.8-53.8c-13.6-16.3 11-36.7 24.6-20.5 22.4 26.9 55.2 42.2 90.2 42.2s67.8-15.4 90.2-42.2c13.4-16.2 38.1 4.2 24.6 20.5z"></path></svg></div><div class="wp-block-content blockwheels-counter" data-start="0" data-end="478" data-suffix="k" data-duration="2.5" data-separator=""><div class="flex flex-column"><div class="blockwheels-counter-process blockwheels-counter-number"></div><h4>Satisfield Clients</h4></div></div></div>
+<!-- wp:blockwheels/counter {"blockId":"22bc0c33-b514-4d34-bd93-409df35035ba","iconColor":"#ffffff","iconBgColor":"#ffb109","counterIcon":"fas_smile","numberEnd":478,"numberSuffix":"k","showImage":true} -->
+<div class="wp-block-blockwheels-counter blockwheels-counter-wrapper flex sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="22bc0c33-b514-4d34-bd93-409df35035ba"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 496 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm80 168c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zm-160 0c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zm194.8 170.2C334.3 380.4 292.5 400 248 400s-86.3-19.6-114.8-53.8c-13.6-16.3 11-36.7 24.6-20.5 22.4 26.9 55.2 42.2 90.2 42.2s67.8-15.4 90.2-42.2c13.4-16.2 38.1 4.2 24.6 20.5z"></path></svg></div><div class="wp-block-content blockwheels-counter" data-start="0" data-end="478" data-suffix="k" data-duration="2.5" data-separator=""><div class="flex flex-column"><div class="blockwheels-counter-process blockwheels-counter-number"></div><h4>Satisfield Clients</h4></div></div></div>
 <!-- /wp:blockwheels/counter -->
 
-<!-- wp:blockwheels/counter {"blockId":"331609bb-cd4f-47e6-8a4e-01d244afe3e3","iconColor":"#ffffff","iconBgColor":"#ffb109","counterIcon":"fas_building","numberEnd":6,"showImage":true} -->
-<div class="wp-block-blockwheels-counter blockwheels-counter-wrapper flex sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="331609bb-cd4f-47e6-8a4e-01d244afe3e3"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 448 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M436 480h-20V24c0-13.255-10.745-24-24-24H56C42.745 0 32 10.745 32 24v456H12c-6.627 0-12 5.373-12 12v20h448v-20c0-6.627-5.373-12-12-12zM128 76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76zm0 96c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40zm52 148h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12zm76 160h-64v-84c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v84zm64-172c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40z"></path></svg></div><div class="wp-block-content blockwheels-counter" data-start="0" data-end="6" data-duration="2.5" data-separator=""><div class="flex flex-column"><div class="blockwheels-counter-process blockwheels-counter-number"></div><h4>Our Branch</h4></div></div></div>
+<!-- wp:blockwheels/counter {"blockId":"9c363088-9fff-4d77-9d50-c8d1c4a959d0","iconColor":"#ffffff","iconBgColor":"#ffb109","counterIcon":"fas_building","numberEnd":6,"showImage":true} -->
+<div class="wp-block-blockwheels-counter blockwheels-counter-wrapper flex sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="9c363088-9fff-4d77-9d50-c8d1c4a959d0"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 448 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M436 480h-20V24c0-13.255-10.745-24-24-24H56C42.745 0 32 10.745 32 24v456H12c-6.627 0-12 5.373-12 12v20h448v-20c0-6.627-5.373-12-12-12zM128 76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76zm0 96c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40zm52 148h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12zm76 160h-64v-84c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v84zm64-172c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40z"></path></svg></div><div class="wp-block-content blockwheels-counter" data-start="0" data-end="6" data-duration="2.5" data-separator=""><div class="flex flex-column"><div class="blockwheels-counter-process blockwheels-counter-number"></div><h4>Our Branch</h4></div></div></div>
 <!-- /wp:blockwheels/counter --></div>
 <!-- /wp:blockwheels/counters -->
 
-<!-- wp:blockwheels/spacer {"blockId":"99669a42-2dfb-48b0-9920-c3329ac99d43","spacerHeight":{"desktop":"60px","tablet":"40px","mobile":"40px"},"enableDivider":false} -->
+<!-- wp:blockwheels/spacer {"blockId":"a604b2d6-b42e-4ecf-9c43-f9c4714dcab7","spacerHeight":{"desktop":"60px","tablet":"40px","mobile":"40px"},"enableDivider":false} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-left md-text-left text-left"></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/icons {"blockId":"28659a43-6e82-4856-b93d-49d96720227c"} -->
-<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"586ec3bc-f9ee-428e-b587-0aee10dcccc2","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
+<!-- wp:blockwheels/icons {"blockId":"24bb9703-2be3-4fb8-a115-a3353dbf9b20"} -->
+<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"2f7853c0-dc1d-48c2-93ef-487fcf29d152","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
 <!-- /wp:blockwheels/icons -->
 
-<!-- wp:blockwheels/heading {"blockId":"7ce19f0e-bb00-4a7b-8a1d-32128063e339","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
+<!-- wp:blockwheels/heading {"blockId":"ca4e4932-e8f8-4e69-ab11-618e2c717e78","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
 <div class="blockwheels-heading-section flex-inline" title=""><h5 class="blockwheels-heading">OUR SERVICES</h5></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/heading {"blockId":"44dccadc-c21c-4426-9c30-d940c2e2bd53","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"textColor":"#091c2d"} -->
+<!-- wp:blockwheels/heading {"blockId":"bf08c0a4-c6d7-4c89-839f-33c320846410","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"textColor":"#091c2d"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">How Can We Help You</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/paragraph {"blockId":"b9c93210-448e-4854-9ad5-b14a9368e4b1","alignment":{"desktop":"center","tablet":"center","mobile":"left"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":"14px"},"textColor":"#727272"} -->
+<!-- wp:blockwheels/paragraph {"blockId":"37b42b27-0f79-49c4-af7d-965463c6150d","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":"14px"},"textColor":"#727272"} -->
 <p class="blockwheels-paragraph-block">Empowering justice with expertise. Explore the range of services tailored to protect, advocate, and secure your legal interests. Navigate all aspects of the legal landscape!</p>
 <!-- /wp:blockwheels/paragraph -->
 
-<!-- wp:blockwheels/services {"blockId":"40001d09-372b-46c9-9054-df49e5cd51de","colBorderRadius":"","colPadding":{"desktop":{"top":"26px","right":"26px","bottom":"0px","left":"26px"},"tablet":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"colBorderSize":{"top":"3px","right":"0px","bottom":"0px","left":"0px"},"colBorderColor":"#ffb109","colBgColor":"#091c2d","iconSize":{"desktop":"100%","tablet":"100%","mobile":"100%"},"iconPadding":{"desktop":"0px","tablet":"0px","mobile":"0px"},"imageRadius":"0%","nameFontColor":"#ffb109","descFontSize":{"desktop":"18px","tablet":"","mobile":""},"descFontColor":"#fefefe","buttonBgColor":"#c97ec6","buttonFontSize":{"desktop":"14px","tablet":"","mobile":""},"buttonLetterCase":"uppercase","buttonPadding":{"desktop":{"top":"10px","right":"15px","bottom":"12px","left":"15px"},"tablet":{"top":"10px","right":"15px","bottom":"10px","left":"15px"},"mobile":{"top":"10px","right":"15px","bottom":"10px","left":"15px"}},"enableButtons":false,"iconPosition":{"desktop":"flex-column-reverse","tablet":"flex-column","mobile":"flex-column"}} -->
-<div class="wp-block-blockwheels-services blockwheels-services-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-2 grid-cols-3" data-ratio="auto"><!-- wp:blockwheels/service {"blockId":"fea6231b-e7e3-4719-a3b1-26a44852e9b1","iconBgColor":"#c97ec6","iconSource":"image","serviceIcon":"fab fa-css3-alt","imagePosition":{"desktop":"flex-column-reverse","tablet":"flex-column","mobile":"flex-column"},"id":309,"showButtons":false} -->
-<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column-reverse sm-text-center md-text-center text-center" data-id="fea6231b-e7e3-4719-a3b1-26a44852e9b1"><div class="wp-block-image-wrap"><figure class="wp-block-image"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/alexander-dummer-UH-xs-FizTk-unsplash.jpg" alt="" class="wp-image-309"/></figure></div><div class="wp-block-content"><h4>Family Law</h4><p>Explore and navigate all the factors of family matters. Our services are designed to provide you with positive solutions during challenging times. </p></div></div>
+<!-- wp:blockwheels/services {"blockId":"a49f5a33-72d3-471f-931f-d965df18ac54","colBorderRadius":"","colPadding":{"desktop":{"top":"26px","right":"26px","bottom":"0px","left":"26px"},"tablet":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"colBorderSize":{"top":"3px","right":"0px","bottom":"0px","left":"0px"},"colBorderColor":"#ffb109","colBgColor":"#091c2d","iconSize":{"desktop":"100%","tablet":"100%","mobile":"100%"},"iconPadding":{"desktop":"0px","tablet":"0px","mobile":"0px"},"imageRadius":"0%","nameFontSize":{"desktop":"","tablet":"","mobile":"20px"},"nameFontColor":"#ffb109","descFontSize":{"desktop":"18px","tablet":"","mobile":"14px"},"descFontColor":"#fefefe","buttonBgColor":"#c97ec6","buttonFontSize":{"desktop":"14px","tablet":"","mobile":""},"buttonLetterCase":"uppercase","buttonPadding":{"desktop":{"top":"10px","right":"15px","bottom":"12px","left":"15px"},"tablet":{"top":"10px","right":"15px","bottom":"10px","left":"15px"},"mobile":{"top":"10px","right":"15px","bottom":"10px","left":"15px"}},"enableButtons":false,"iconPosition":{"desktop":"flex-column-reverse","tablet":"flex-column","mobile":"flex-column"}} -->
+<div class="wp-block-blockwheels-services blockwheels-services-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-2 grid-cols-3" data-ratio="auto"><!-- wp:blockwheels/service {"blockId":"9cae0317-8364-4a46-b87a-dba270de5b18","iconBgColor":"#c97ec6","iconSource":"image","serviceIcon":"fab fa-css3-alt","imagePosition":{"desktop":"flex-column-reverse","tablet":"flex-column","mobile":"flex-column"},"id":309,"showButtons":false} -->
+<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column-reverse sm-text-center md-text-center text-center" data-id="9cae0317-8364-4a46-b87a-dba270de5b18"><div class="wp-block-image-wrap"><figure class="wp-block-image"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/alexander-dummer-UH-xs-FizTk-unsplash.jpg" alt="" class="wp-image-309"/></figure></div><div class="wp-block-content"><h4>Family Law</h4><p>Explore and navigate all the factors of family matters. Our services are designed to provide you with positive solutions during challenging times. </p></div></div>
 <!-- /wp:blockwheels/service -->
 
-<!-- wp:blockwheels/service {"blockId":"0392d29c-ddd9-4d68-a8fa-44b8eb059714","iconBgColor":"#aad6ac","iconSource":"image","serviceIcon":"fas fa-code","imagePosition":{"desktop":"flex-column-reverse","tablet":"flex-column","mobile":"flex-column"},"id":313,"showButtons":false} -->
-<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column-reverse sm-text-center md-text-center text-center" data-id="0392d29c-ddd9-4d68-a8fa-44b8eb059714"><div class="wp-block-image-wrap"><figure class="wp-block-image"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/markus-spiske-WOPu8kmmEnA-unsplash.jpg" alt="" class="wp-image-313"/></figure></div><div class="wp-block-content"><h4>Criminal Law</h4><p>We stand as your advocates and defenders. Trust our services as they are tailored to protect your rights and ensure a fair defense.</p></div></div>
+<!-- wp:blockwheels/service {"blockId":"e0a3ca7f-3980-4d89-9785-953ec8f41d80","iconBgColor":"#aad6ac","iconSource":"image","serviceIcon":"fas fa-code","imagePosition":{"desktop":"flex-column-reverse","tablet":"flex-column","mobile":"flex-column"},"id":313,"showButtons":false} -->
+<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column-reverse sm-text-center md-text-center text-center" data-id="e0a3ca7f-3980-4d89-9785-953ec8f41d80"><div class="wp-block-image-wrap"><figure class="wp-block-image"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/markus-spiske-WOPu8kmmEnA-unsplash.jpg" alt="" class="wp-image-313"/></figure></div><div class="wp-block-content"><h4>Criminal Law</h4><p>We stand as your advocates and defenders. Trust our services as they are tailored to protect your rights and ensure a fair defense.</p></div></div>
 <!-- /wp:blockwheels/service -->
 
-<!-- wp:blockwheels/service {"blockId":"f6148c7d-d62d-41c1-a414-6230e56719e2","iconBgColor":"#c97ec6","iconSource":"image","serviceIcon":"fas fa-users-cog","imagePosition":{"desktop":"flex-column-reverse","tablet":"flex-column","mobile":"flex-column"},"id":315,"showButtons":false} -->
-<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column-reverse sm-text-center md-text-center text-center" data-id="f6148c7d-d62d-41c1-a414-6230e56719e2"><div class="wp-block-image-wrap"><figure class="wp-block-image"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/shalom-de-leon-BfCIvpTRZnE-unsplash.jpg" alt="" class="wp-image-315"/></figure></div><div class="wp-block-content"><h4>Civil Law</h4><p>Your rights are our priority. We are dedicated to resolving disputes while protecting your rights and providing you with expert legal guidance. </p></div></div>
+<!-- wp:blockwheels/service {"blockId":"5806d113-58a4-40a0-8711-de2ea840a5e9","iconBgColor":"#c97ec6","iconSource":"image","serviceIcon":"fas fa-users-cog","imagePosition":{"desktop":"flex-column-reverse","tablet":"flex-column","mobile":"flex-column"},"id":315,"showButtons":false} -->
+<div class="wp-block-blockwheels-service blockwheels-service-wrapper flex align-items-start sm-flex-column md-flex-column flex-column-reverse sm-text-center md-text-center text-center" data-id="5806d113-58a4-40a0-8711-de2ea840a5e9"><div class="wp-block-image-wrap"><figure class="wp-block-image"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/shalom-de-leon-BfCIvpTRZnE-unsplash.jpg" alt="" class="wp-image-315"/></figure></div><div class="wp-block-content"><h4>Civil Law</h4><p>Your rights are our priority. We are dedicated to resolving disputes while protecting your rights and providing you with expert legal guidance. </p></div></div>
 <!-- /wp:blockwheels/service --></div></div>
 <!-- /wp:blockwheels/services -->
 
-<!-- wp:blockwheels/spacer {"blockId":"d660e258-961a-4638-82e2-75363b11829a","spacerHeight":{"desktop":"60px","tablet":"40px","mobile":"40px"},"enableDivider":false} -->
+<!-- wp:blockwheels/spacer {"blockId":"cff3b8b1-07be-4259-97a3-efb9c814ff3f","spacerHeight":{"desktop":"60px","tablet":"40px","mobile":"40px"},"enableDivider":false} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-left md-text-left text-left"></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/icons {"blockId":"eb071fb0-1232-4caf-b62f-1ab0ab3e0265"} -->
-<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"4c3d3017-fdcb-4b60-b3bf-b16197771324","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
+<!-- wp:blockwheels/icons {"blockId":"c8b62708-33c3-4ab9-9998-f4556405c714"} -->
+<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"9e91ca8f-1de2-4b2f-9c86-3ece9bbc6ca5","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
 <!-- /wp:blockwheels/icons -->
 
-<!-- wp:blockwheels/heading {"blockId":"bd8a8947-6c95-4370-bbc8-4516d30e17b0","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
+<!-- wp:blockwheels/heading {"blockId":"95939f00-8832-4f51-93b3-64e42daf9221","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
 <div class="blockwheels-heading-section flex-inline" title=""><h5 class="blockwheels-heading">OUR PORTFOLIO</h5></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/heading {"blockId":"498f054a-2590-44f2-9209-88ef39de6b85","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"textColor":"#091c2d"} -->
+<!-- wp:blockwheels/heading {"blockId":"4d33de0c-57fc-447e-a94f-86cab7cff54d","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"textColor":"#091c2d"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Our Recent Case Studies</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/paragraph {"blockId":"910637a9-995e-4b59-8272-e3ce1f3d7151","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
+<!-- wp:blockwheels/paragraph {"blockId":"df8b114a-0576-4860-b32b-a3fd14ab42d0","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":"14px"},"textColor":"#727272"} -->
 <p class="blockwheels-paragraph-block">Take a look at our most recent case studies!</p>
 <!-- /wp:blockwheels/paragraph -->
 
-<!-- wp:blockwheels/portfolios {"blockId":"09573108-45fb-4de9-be6b-ebfda7773e5b","backgroundColor":"#091c2d","contentPadding":{"desktop":{"top":"20px","right":"40px","bottom":"40px","left":"40px"},"tablet":{"top":"20px","right":"20px","bottom":"40px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"40px","left":"20px"}},"contentMargin":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"","mobile":""},"categories":[{"label":"FAMILY"},{"label":"CRIMINAL"},{"label":"CIVIL"}],"itemAlign":{"desktop":"center","tablet":"center","mobile":"center"},"itemLetterCase":"uppercase","itemColor":"#091c2d","itemBgColor":"#ffb109","itemMargin":{"desktop":{"bottom":"30px","top":"0px"},"tablet":{"top":"0px","bottom":"15px"},"mobile":{"top":"0px","bottom":"15px"}},"nameFontSize":{"desktop":"24px","tablet":"","mobile":""},"nameFontColor":"#ffb109","descriptionFontSize":{"desktop":"18px","tablet":"","mobile":""},"descriptionFontColor":"#fefefe"} -->
-<!-- wp:blockwheels/portfolio {"blockId":"de407e52-b478-4b94-81ea-8ef16547c1cc","filterCats":[{"label":"FAMILY","value":"family"}],"id":312} -->
-<div class="wp-block-blockwheels-portfolio blockwheels-portfolio-wrapper column filter-item portfolio-items family" data-id="de407e52-b478-4b94-81ea-8ef16547c1cc"><div class="portfolio-details"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/liv-bruce-odIhQypCuUk-unsplash.jpg" alt="" class="wp-image-312"/></a></figure><div class="wp-block-content has-image"><h2>Kumamoto Case Study - Family Law</h2><p>Diving deep into the Kumamoto Case Study.&nbsp; A case study into the intricate details of the case.</p></div></div></div>
+<!-- wp:blockwheels/portfolios {"blockId":"72875328-94bc-4084-b29f-ff21af23bd1a","backgroundColor":"#091c2d","contentPadding":{"desktop":{"top":"20px","right":"40px","bottom":"40px","left":"40px"},"tablet":{"top":"20px","right":"20px","bottom":"40px","left":"20px"},"mobile":{"top":"20px","right":"20px","bottom":"40px","left":"20px"}},"contentMargin":{"desktop":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"tablet":"","mobile":""},"categories":[{"label":"FAMILY"},{"label":"CRIMINAL"},{"label":"CIVIL"}],"itemAlign":{"desktop":"center","tablet":"center","mobile":"center"},"itemFontSize":{"desktop":"","tablet":"","mobile":"11px"},"itemLetterCase":"uppercase","itemColor":"#091c2d","itemBgColor":"#ffb109","itemPadding":{"desktop":{"top":"9px","right":"25px","bottom":"9px","left":"25px"},"tablet":{"top":"9px","right":"25px","bottom":"9px","left":"25px"},"mobile":{"top":"9px","right":"10px","bottom":"9px","left":"10px"}},"itemMargin":{"desktop":{"bottom":"30px"},"tablet":"","mobile":""},"nameFontSize":{"desktop":"24px","tablet":"","mobile":"20px"},"nameFontColor":"#ffb109","descriptionFontSize":{"desktop":"18px","tablet":"","mobile":"14px"},"descriptionFontColor":"#fefefe"} -->
+<!-- wp:blockwheels/portfolio {"blockId":"6368b7e4-a084-428d-8656-d2dc9ad5d47d","filterCats":[{"label":"FAMILY","value":"family"}],"id":312} -->
+<div class="wp-block-blockwheels-portfolio blockwheels-portfolio-wrapper column filter-item portfolio-items family" data-id="6368b7e4-a084-428d-8656-d2dc9ad5d47d"><div class="portfolio-details"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/liv-bruce-odIhQypCuUk-unsplash.jpg" alt="" class="wp-image-312"/></a></figure><div class="wp-block-content has-image"><h2>Kumamoto Case Study - Family Law</h2><p>Diving deep into the Kumamoto Case Study.&nbsp; A case study into the intricate details of the case.</p></div></div></div>
 <!-- /wp:blockwheels/portfolio -->
 
-<!-- wp:blockwheels/portfolio {"blockId":"df9e8eef-503c-4dab-bea4-c706ce15a641","filterCats":[{"label":"CRIMINAL","value":"criminal"}],"id":310} -->
-<div class="wp-block-blockwheels-portfolio blockwheels-portfolio-wrapper column filter-item portfolio-items criminal" data-id="df9e8eef-503c-4dab-bea4-c706ce15a641"><div class="portfolio-details"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/bret-kavanaugh-TQuQh4xxPJg-unsplash.jpg" alt="" class="wp-image-310"/></a></figure><div class="wp-block-content has-image"><h2>Zupitaa Case Study - Criminal Law</h2><p>Explore the narrative of the Zupitaa Case Study.</p></div></div></div>
+<!-- wp:blockwheels/portfolio {"blockId":"45d16d51-b03e-42f8-afcc-9d9af994e66e","filterCats":[{"label":"CRIMINAL","value":"criminal"}],"id":310} -->
+<div class="wp-block-blockwheels-portfolio blockwheels-portfolio-wrapper column filter-item portfolio-items criminal" data-id="45d16d51-b03e-42f8-afcc-9d9af994e66e"><div class="portfolio-details"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/bret-kavanaugh-TQuQh4xxPJg-unsplash.jpg" alt="" class="wp-image-310"/></a></figure><div class="wp-block-content has-image"><h2>Zupitaa Case Study - Criminal Law</h2><p>Explore the narrative of the Zupitaa Case Study.</p></div></div></div>
 <!-- /wp:blockwheels/portfolio -->
 
-<!-- wp:blockwheels/portfolio {"blockId":"f25f6917-3f28-4fd1-9684-c5827a439656","filterCats":[{"label":"CRIMINAL","value":"criminal"}],"id":314} -->
-<div class="wp-block-blockwheels-portfolio blockwheels-portfolio-wrapper column filter-item portfolio-items criminal" data-id="f25f6917-3f28-4fd1-9684-c5827a439656"><div class="portfolio-details"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/martin-zaenkert-z-E2PJsmcTg-unsplash.jpg" alt="" class="wp-image-314"/></a></figure><div class="wp-block-content has-image"><h2>Melocka Case Study - Criminal Law</h2><p>Unravel the deep dive into the Melcoka Case Study.</p></div></div></div>
+<!-- wp:blockwheels/portfolio {"blockId":"d7b27607-796f-45e4-a0f1-39aae0d9c08c","filterCats":[{"label":"CRIMINAL","value":"criminal"}],"id":314} -->
+<div class="wp-block-blockwheels-portfolio blockwheels-portfolio-wrapper column filter-item portfolio-items criminal" data-id="d7b27607-796f-45e4-a0f1-39aae0d9c08c"><div class="portfolio-details"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/martin-zaenkert-z-E2PJsmcTg-unsplash.jpg" alt="" class="wp-image-314"/></a></figure><div class="wp-block-content has-image"><h2>Melocka Case Study - Criminal Law</h2><p>Unravel the deep dive into the Melcoka Case Study.</p></div></div></div>
 <!-- /wp:blockwheels/portfolio -->
 
-<!-- wp:blockwheels/portfolio {"blockId":"825f90b1-5699-4cb8-9838-2d3ff60e057f","filterCats":[{"label":"CIVIL","value":"civil"}],"id":305} -->
-<div class="wp-block-blockwheels-portfolio blockwheels-portfolio-wrapper column filter-item portfolio-items civil" data-id="825f90b1-5699-4cb8-9838-2d3ff60e057f"><div class="portfolio-details"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/unseen-histories-U2F-bYmuEqU-unsplash.jpg" alt="" class="wp-image-305"/></a></figure><div class="wp-block-content has-image"><h2>Society Alliance Case Study - Civil Law</h2><p>Explore our detailed case study on Society Alliance Case Study.&nbsp;</p></div></div></div>
+<!-- wp:blockwheels/portfolio {"blockId":"3a9b408c-15c3-44b4-871b-bd5eb2bb885c","filterCats":[{"label":"CIVIL","value":"civil"}],"id":305} -->
+<div class="wp-block-blockwheels-portfolio blockwheels-portfolio-wrapper column filter-item portfolio-items civil" data-id="3a9b408c-15c3-44b4-871b-bd5eb2bb885c"><div class="portfolio-details"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/unseen-histories-U2F-bYmuEqU-unsplash.jpg" alt="" class="wp-image-305"/></a></figure><div class="wp-block-content has-image"><h2>Society Alliance Case Study - Civil Law</h2><p>Explore our detailed case study on Society Alliance Case Study.&nbsp;</p></div></div></div>
 <!-- /wp:blockwheels/portfolio -->
 <!-- /wp:blockwheels/portfolios -->
 
-<!-- wp:blockwheels/icons {"blockId":"4e795c25-316d-4de6-a822-6752ddadb50d"} -->
-<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"f20ccb79-8306-4a55-b572-8f77994d8c9f","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
+<!-- wp:blockwheels/icons {"blockId":"4223e894-0617-44d8-80c1-fb316c32e081"} -->
+<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"fe020ec4-9a00-4036-996d-091809d2a86d","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
 <!-- /wp:blockwheels/icons -->
 
-<!-- wp:blockwheels/heading {"blockId":"d96b7602-f527-4a83-9bde-db92adb995e6","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
+<!-- wp:blockwheels/heading {"blockId":"1701308e-7b4c-4d8e-a01a-b357e6605f3f","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
 <div class="blockwheels-heading-section flex-inline" title=""><h5 class="blockwheels-heading">OUR TEAM</h5></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/heading {"blockId":"f776d1a4-097c-4fdb-bbc2-58f281e96edc","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"textColor":"#091c2d"} -->
+<!-- wp:blockwheels/heading {"blockId":"b982cc2e-96a4-41c0-b33e-e8d84aa9bfd0","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"textColor":"#091c2d"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Meet Our Experts Qualified Attorneys</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/paragraph {"blockId":"1ac562cd-1eb5-481f-a10b-b9585141061d","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
+<!-- wp:blockwheels/paragraph {"blockId":"d19e6eb7-845f-4076-8e92-c80bedb14860","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":"14px"},"textColor":"#727272"} -->
 <p class="blockwheels-paragraph-block">Introducing our team of legal experts. Our team of experts and qualified attorneys is dedicated with a commitment to excellence. Rest assured, your legal matters are in capable hands.</p>
 <!-- /wp:blockwheels/paragraph -->
 
-<!-- wp:blockwheels/team-members {"blockId":"3a7d8902-a821-4266-9c1c-556c4fbdd190","colGap":{"desktop":"26px","tablet":"15px","mobile":"15px"},"rowGap":{"desktop":"26px","tablet":"15px","mobile":"15px"},"colPadding":{"desktop":{},"tablet":"","mobile":""},"colBorderSize":{"bottom":"3px"},"colBorderColor":"#ffb109","imageRatio":"3x4","nameFontColor":"#ffb109","bioFontColor":"#ffffff","socialIconSize":{"desktop":"14px","tablet":"20px","mobile":"20px"},"socialIconColor":"#fefefe","socialBgColor":"#ffb109"} -->
-<div class="wp-block-blockwheels-team-members blockwheels-team-members-container"><div class="grid gap sm-grid-cols-1 md-grid-cols-2 grid-cols-3"><!-- wp:blockwheels/team-member {"blockId":"1c87cbed-5340-4d0a-9aeb-3e21f1cd7307","contentBgColor":"#091c2d","contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"inheritImageRatio":"3x4","id":308} -->
-<div class="wp-block-blockwheels-team-member blockwheels-team-member-wrapper flex image-ratio sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="1c87cbed-5340-4d0a-9aeb-3e21f1cd7307" data-ratio="3x4"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/agent-3.jpg" alt="" class="wp-image-308"/></a></figure><div class="wp-block-content"><span>BUSINESS LAWYER</span><h4>Edwin Smith</h4><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p><div class="blockwheels-team-member-social-links"><ul><li data-icon="fa_linkedin-in"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 448 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z"></path></svg></div></a></li><li data-icon="fe_twitter"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 24 24" height="24" width="24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></div></a></li></ul></div></div></div>
+<!-- wp:blockwheels/team-members {"blockId":"6e9cab78-00b7-4635-bc55-74776068dbae","colGap":{"desktop":"26px","tablet":"15px","mobile":"15px"},"rowGap":{"desktop":"26px","tablet":"15px","mobile":"15px"},"colPadding":{"desktop":{},"tablet":"","mobile":""},"colBorderSize":{"bottom":"3px"},"colBorderColor":"#ffb109","imageRatio":"3x4","nameFontSize":{"desktop":"20px","tablet":"","mobile":""},"nameFontColor":"#ffb109","bioFontSize":{"desktop":"14px","tablet":"","mobile":""},"bioFontColor":"#ffffff","socialIconSize":{"desktop":"10px","tablet":"20px","mobile":"12px"},"socialIconColor":"#fefefe","socialBgColor":"#ffb109"} -->
+<div class="wp-block-blockwheels-team-members blockwheels-team-members-container"><div class="grid gap sm-grid-cols-1 md-grid-cols-2 grid-cols-3"><!-- wp:blockwheels/team-member {"blockId":"4e77c2f0-fa1c-4559-ab48-86f4f6d7fa65","contentBgColor":"#091c2d","contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"inheritImageRatio":"3x4","id":308} -->
+<div class="wp-block-blockwheels-team-member blockwheels-team-member-wrapper flex image-ratio sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="4e77c2f0-fa1c-4559-ab48-86f4f6d7fa65" data-ratio="3x4"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/agent-3.jpg" alt="" class="wp-image-308"/></a></figure><div class="wp-block-content"><span>BUSINESS LAWYER</span><h4>Edwin Smith</h4><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p><div class="blockwheels-team-member-social-links"><ul><li data-icon="fa_linkedin-in"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 448 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z"></path></svg></div></a></li><li data-icon="fe_twitter"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 24 24" height="24" width="24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></div></a></li></ul></div></div></div>
 <!-- /wp:blockwheels/team-member -->
 
-<!-- wp:blockwheels/team-member {"blockId":"deb98305-5598-4a39-ba54-02e105012482","contentBgColor":"#091c2d","contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"inheritImageRatio":"3x4","id":307} -->
-<div class="wp-block-blockwheels-team-member blockwheels-team-member-wrapper flex image-ratio sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="deb98305-5598-4a39-ba54-02e105012482" data-ratio="3x4"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/agent-2.jpg" alt="" class="wp-image-307"/></a></figure><div class="wp-block-content"><span>FAMILY LAWYER</span><h4>Kamata Clark</h4><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p><div class="blockwheels-team-member-social-links"><ul><li data-icon="fe_instagram"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 24 24" height="24" width="24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line></svg></div></a></li><li data-icon="fe_twitter"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 24 24" height="24" width="24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></div></a></li></ul></div></div></div>
+<!-- wp:blockwheels/team-member {"blockId":"5c3d6042-1dac-4db5-8c67-0fcec712fda8","contentBgColor":"#091c2d","contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"inheritImageRatio":"3x4","id":307} -->
+<div class="wp-block-blockwheels-team-member blockwheels-team-member-wrapper flex image-ratio sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="5c3d6042-1dac-4db5-8c67-0fcec712fda8" data-ratio="3x4"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/agent-2.jpg" alt="" class="wp-image-307"/></a></figure><div class="wp-block-content"><span>FAMILY LAWYER</span><h4>Kamata Clark</h4><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p><div class="blockwheels-team-member-social-links"><ul><li data-icon="fe_instagram"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 24 24" height="24" width="24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line></svg></div></a></li><li data-icon="fe_twitter"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 24 24" height="24" width="24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></div></a></li></ul></div></div></div>
 <!-- /wp:blockwheels/team-member -->
 
-<!-- wp:blockwheels/team-member {"blockId":"f6683ae2-ca14-45b5-80a0-d592b7ad6f48","contentBgColor":"#091c2d","contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"inheritImageRatio":"3x4","id":306} -->
-<div class="wp-block-blockwheels-team-member blockwheels-team-member-wrapper flex image-ratio sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="f6683ae2-ca14-45b5-80a0-d592b7ad6f48" data-ratio="3x4"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/agent-1.jpg" alt="" class="wp-image-306"/></a></figure><div class="wp-block-content"><span>CRIMINAL LAWYER</span><h4>Jhonson Parker</h4><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p><div class="blockwheels-team-member-social-links"><ul><li data-icon="fa_facebook-f"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 320 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></div></a></li><li data-icon="fa_linkedin-in"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 448 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z"></path></svg></div></a></li><li data-icon="ic_twitterX"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 1200 1227" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"></path></svg></div></a></li></ul></div></div></div>
+<!-- wp:blockwheels/team-member {"blockId":"505035ba-0fcb-4442-a0f3-d191a9512f2e","contentBgColor":"#091c2d","contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"inheritImageRatio":"3x4","id":306} -->
+<div class="wp-block-blockwheels-team-member blockwheels-team-member-wrapper flex image-ratio sm-flex-column md-flex-column flex-column sm-text-center md-text-center text-center" data-id="505035ba-0fcb-4442-a0f3-d191a9512f2e" data-ratio="3x4"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/agent-1.jpg" alt="" class="wp-image-306"/></a></figure><div class="wp-block-content"><span>CRIMINAL LAWYER</span><h4>Jhonson Parker</h4><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p><div class="blockwheels-team-member-social-links"><ul><li data-icon="fa_facebook-f"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 320 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></div></a></li><li data-icon="fa_linkedin-in"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 448 512" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z"></path></svg></div></a></li><li data-icon="ic_twitterX"><a href="" rel="noopener"><div class="wp-block-icon"><svg style="display:inline-block;vertical-align:middle" viewBox="0 0 1200 1227" height="24" width="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"></path></svg></div></a></li></ul></div></div></div>
 <!-- /wp:blockwheels/team-member --></div></div>
 <!-- /wp:blockwheels/team-members -->
 
-<!-- wp:blockwheels/spacer {"blockId":"779f0430-5ee1-4b15-8803-213b8a4c0e5b","spacerHeight":{"desktop":"60px","tablet":"40px","mobile":"40px"},"enableDivider":false} -->
+<!-- wp:blockwheels/spacer {"blockId":"963ba687-e2a6-4f94-a49c-0f14e3eaf722","spacerHeight":{"desktop":"60px","tablet":"40px","mobile":"40px"},"enableDivider":false} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-left md-text-left text-left"></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/icons {"blockId":"924d5783-4dbb-4f69-8ae6-c5be721d1332"} -->
-<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"124103a8-7572-4775-bac6-4a84fe7a5249","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
+<!-- wp:blockwheels/icons {"blockId":"4c89ea08-53c4-4c15-a5b8-bf06cfac417d"} -->
+<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"c9d5d24b-a880-4b71-b752-e4e86b32cdbf","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
 <!-- /wp:blockwheels/icons -->
 
-<!-- wp:blockwheels/heading {"blockId":"abe00ec4-6d94-4042-8ad2-c31de55ad717","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
+<!-- wp:blockwheels/heading {"blockId":"afe953cb-f199-42c1-b10f-01588c12ab0a","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
 <div class="blockwheels-heading-section flex-inline" title=""><h5 class="blockwheels-heading">TESTIMONIALS</h5></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/heading {"blockId":"3d62ec8a-8b8c-4e63-b870-5b2e5198da85","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"textColor":"#091c2d"} -->
+<!-- wp:blockwheels/heading {"blockId":"7605e103-ff25-4560-8864-368a16e64e5a","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"textColor":"#091c2d"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">What People Say</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/paragraph {"blockId":"7a35bcba-cf68-4b94-8d5d-f5fcd46b7269","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
+<!-- wp:blockwheels/paragraph {"blockId":"346f2090-1b46-4909-9e4f-ad1178326cb5","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":"14px"},"textColor":"#727272"} -->
 <p class="blockwheels-paragraph-block">Look what our customers have to say about us! Check their authentic reviews and ratings.</p>
 <!-- /wp:blockwheels/paragraph -->
 
-<!-- wp:blockwheels/testimonials {"blockId":"22afe959-9ad8-47d0-9e7e-43cd545e74b7","columns":{"desktop":2,"tablet":1,"mobile":1},"colPadding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"tablet":"","mobile":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"colBorderSize":{"bottom":"3px"},"colBorderColor":"#ffb109","backgroundColor":"#091c2d","contentLayout":"inline","enableDesignation":false,"contentBorderRadius":"0px","contentPadding":{"desktop":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"tablet":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"mobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"imageRatio":"21x9","quotesColor":"#ffb109","descriptionFontSize":{"desktop":"18px","tablet":"","mobile":""},"descriptionFontColor":"#fefefe","nameFontSize":{"desktop":"20px","tablet":"","mobile":""},"nameFontColor":"#ffb109"} -->
-<div class="wp-block-blockwheels-testimonials blockwheels-testimonials-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-1 grid-cols-2 sm-text-left md-text-left text-left" data-ratio="1x1"><!-- wp:blockwheels/testimonial {"blockId":"212abefa-4920-4296-98dd-161029ccb435","presetDesign":"inline","showDesignation":false,"id":323} -->
-<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="212abefa-4920-4296-98dd-161029ccb435" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/testimonial-3.png" alt="" class="wp-image-323"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>John Smith</h6></div></div><p>Choosing BlockWheels was one of the best decisions I made for my website. They are gorgeous, user-friendly, and effortless.</p></div></div></div>
+<!-- wp:blockwheels/testimonials {"blockId":"ff3cb82e-07e2-490f-be0f-1471208284dd","columns":{"desktop":2,"tablet":1,"mobile":1},"colPadding":{"desktop":{"top":"40px","right":"40px","bottom":"40px","left":"40px"},"tablet":"","mobile":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}},"colBorderSize":{"bottom":"3px"},"colBorderColor":"#ffb109","backgroundColor":"#091c2d","contentLayout":"inline","enableDesignation":false,"contentBorderRadius":"0px","contentPadding":{"desktop":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"tablet":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"mobile":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"imageRatio":"21x9","quotesColor":"#ffb109","descriptionFontSize":{"desktop":"18px","tablet":"","mobile":""},"descriptionFontColor":"#fefefe","nameFontSize":{"desktop":"20px","tablet":"","mobile":""},"nameFontColor":"#ffb109"} -->
+<div class="wp-block-blockwheels-testimonials blockwheels-testimonials-container"><div class="grid gap image-ratio sm-grid-cols-1 md-grid-cols-1 grid-cols-2 sm-text-left md-text-left text-left" data-ratio="1x1"><!-- wp:blockwheels/testimonial {"blockId":"c66f133a-671c-4e03-95ef-2f9c58372f1a","presetDesign":"inline","showDesignation":false,"id":323} -->
+<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="c66f133a-671c-4e03-95ef-2f9c58372f1a" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/testimonial-3.png" alt="" class="wp-image-323"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>John Smith</h6></div></div><p>Choosing BlockWheels was one of the best decisions I made for my website. They are gorgeous, user-friendly, and effortless.</p></div></div></div>
 <!-- /wp:blockwheels/testimonial -->
 
-<!-- wp:blockwheels/testimonial {"blockId":"2b7798c5-dacb-4607-acc4-9ee3cb0f55b8","presetDesign":"inline","showDesignation":false,"id":322} -->
-<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="2b7798c5-dacb-4607-acc4-9ee3cb0f55b8" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/testimonial-2.png" alt="" class="wp-image-322"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Robin Clark</h6></div></div><p>BlockWheels exceeded my expectations in every way, the themes are stunning, effortless to navigate, making my website look gorgeous.</p></div></div></div>
+<!-- wp:blockwheels/testimonial {"blockId":"4aa360fe-03da-4002-8fa6-5636c245d646","presetDesign":"inline","showDesignation":false,"id":322} -->
+<div class="wp-block-blockwheels-testimonial blockwheels-testimonial-wrapper flex flex-column" data-id="4aa360fe-03da-4002-8fa6-5636c245d646" data-layout="inline"><div class="grid wp-block-content has-image"><figure class="wp-block-image"><a href="#" target="_self" rel="noopener"><img src="https://demo.wpwheels.com/blockwheels/law-pro/wp-content/uploads/sites/6/2024/08/testimonial-2.png" alt="" class="wp-image-322"/></a></figure><div class="content-details"><div class="wp-block-quotes"><i class="fas fa-quote-left"></i></div><div class="wp-block-quotes-rating-wrap flex-inline flex-column"><div class="author-details flex-inline flex-wrap"><h6>Robin Clark</h6></div></div><p>BlockWheels exceeded my expectations in every way, the themes are stunning, effortless to navigate, making my website look gorgeous.</p></div></div></div>
 <!-- /wp:blockwheels/testimonial --></div></div>
 <!-- /wp:blockwheels/testimonials -->
 
-<!-- wp:blockwheels/spacer {"blockId":"a7756974-2c19-412b-95a1-79a38ebec9f3","spacerHeight":{"desktop":"60px","tablet":"40px","mobile":"40px"},"enableDivider":false} -->
+<!-- wp:blockwheels/spacer {"blockId":"8d30c32e-7d01-4548-99d8-09fdef238824","spacerHeight":{"desktop":"60px","tablet":"40px","mobile":"40px"},"enableDivider":false} -->
 <div class="wp-block-blockwheels-spacer flex sm-text-left md-text-left text-left"></div>
 <!-- /wp:blockwheels/spacer -->
 
-<!-- wp:blockwheels/icons {"blockId":"19246e2c-eacd-423f-b5d9-67b7d31c6226"} -->
-<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"6d244bbc-c2e1-4e54-b2b4-532cf406ceb4","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
+<!-- wp:blockwheels/icons {"blockId":"8d24968d-d4f8-44b7-a9fa-bcec7bcbd19c"} -->
+<div class="wp-block-blockwheels-icons blockwheels-icons-container"><div class="blockwheels-icons-list flex flex-wrap gap sm-justify-content-center md-justify-content-center justify-content-center sm-align-items-center md-align-items-center align-items-center"><!-- wp:blockwheels/single-icon {"blockId":"d934f689-8e7d-4dcd-99df-47169c1a3ef2","icon":"fas_balance-scale","iconSize":{"desktop":"40px","tablet":"50px","mobile":"50px"},"iconBgSize":{"desktop":"0px","tablet":"0px","mobile":"0px"},"iconBorderWidth":"","iconColor":"#ffb109","iconBgColor":"#6b383800","className":"wp-block-blockwheels-single-icon blockwheels-single-icon-wrapper flex align-items-start"} /--></div></div>
 <!-- /wp:blockwheels/icons -->
 
-<!-- wp:blockwheels/heading {"blockId":"dd54bf12-f61a-401d-931f-696bd8b45b81","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
+<!-- wp:blockwheels/heading {"blockId":"d5f3a021-7a54-42c3-8888-6104f50e2a54","tagName":"h5","enableInline":true,"alignment":{"desktop":"center","tablet":"center","mobile":"center"},"padding":{"desktop":{"top":"9px","right":"26px","bottom":"6px","left":"26px"},"tablet":"","mobile":""},"margin":{"desktop":{"top":"-4px","bottom":"10px"},"tablet":"","mobile":""},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"letterCase":"uppercase","backgroundColor":"#ffb109","textColor":"#fefefe"} -->
 <div class="blockwheels-heading-section flex-inline" title=""><h5 class="blockwheels-heading">NEWS &amp; BLOG</h5></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/heading {"blockId":"fb50eac4-a37d-48c8-8794-6b671bf1a71c","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"textColor":"#091c2d"} -->
+<!-- wp:blockwheels/heading {"blockId":"665f22a8-acbb-4838-b717-e91651feebcc","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"0px","bottom":"0px"},"tablet":{"top":"0px","bottom":"10px"},"mobile":{"top":"0px","bottom":"10px"}},"fontSize":{"desktop":"","tablet":"","mobile":"20px"},"textColor":"#091c2d"} -->
 <div class="blockwheels-heading-section" title=""><h3 class="blockwheels-heading">Our Latest Updates</h3></div>
 <!-- /wp:blockwheels/heading -->
 
-<!-- wp:blockwheels/paragraph {"blockId":"fc8547f9-acca-4736-b663-576b0589b4d0","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":""},"textColor":"#727272"} -->
+<!-- wp:blockwheels/paragraph {"blockId":"9235945c-62d0-4035-a2e9-ccb759233350","alignment":{"desktop":"center","tablet":"center","mobile":"center"},"margin":{"desktop":{"top":"30px","bottom":"30px"},"tablet":{"top":"0px","bottom":"20px"},"mobile":{"top":"0px","bottom":"20px"}},"fontSize":{"desktop":"18px","tablet":"","mobile":"14px"},"textColor":"#727272"} -->
 <p class="blockwheels-paragraph-block">Check out the latest blogs for insightful content, expert tips, and the latest trends.&nbsp;</p>
 <!-- /wp:blockwheels/paragraph -->
 
-<!-- wp:blockwheels/grid-posts {"blockId":"75260fff-7188-4971-b3ef-393d2ae5d640","numberOfPosts":3,"categories":[{"label":"Travel","value":"6"},{"label":"Food","value":"4"}],"columns":{"desktop":3,"tablet":2,"mobile":1},"backgroundColor":"#091c2d","contentPadding":{"desktop":{"top":"26px","right":"26px","bottom":"26px","left":"26px"},"tablet":"","mobile":""},"imageHoverStyle":"trans","categoriesBgColor":"#ffb109","titleFontColor":"#fefefe","excerptLimit":12,"excerptFontSize":{"desktop":"18px","tablet":"","mobile":""},"excerptFontColor":"#fefefe"} /--></div>
+<!-- wp:blockwheels/grid-posts {"blockId":"6f19ccaa-1489-4edb-a9b8-2b67a7c5a514","numberOfPosts":3,"categories":[{"label":"Travel","value":"6"},{"label":"Food","value":"4"}],"columns":{"desktop":3,"tablet":2,"mobile":1},"backgroundColor":"#091c2d","contentPadding":{"desktop":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"tablet":"","mobile":""},"imageHoverStyle":"trans","categoriesBgColor":"#ffb109","titleFontSize":{"desktop":"20px","tablet":"","mobile":""},"titleFontColor":"#fefefe","excerptLimit":12,"excerptFontSize":{"desktop":"14px","tablet":"","mobile":""},"excerptFontColor":"#fefefe"} /--></div>
 <!-- /wp:blockwheels/container -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>300</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-02 10:44:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-02 10:44:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 09:57:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 09:57:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:10:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:10:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4173,10 +4173,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>349</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-13 03:51:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-13 11:08:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-12 03:49:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 03:51:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:08:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:08:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[349]]></wp:post_name>
@@ -4280,10 +4280,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>353</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-13 03:51:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-13 11:08:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-12 03:59:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 03:51:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:08:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:08:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[353]]></wp:post_name>
@@ -4374,10 +4374,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>400</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-13 03:51:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-13 11:08:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 03:51:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:08:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:08:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[400]]></wp:post_name>
@@ -4431,10 +4431,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>401</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-13 03:51:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-13 11:08:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 03:51:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:08:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:08:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[401]]></wp:post_name>
@@ -4488,10 +4488,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>402</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-13 03:51:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-13 11:08:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 03:51:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:08:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:08:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[402]]></wp:post_name>
@@ -4545,10 +4545,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>403</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-13 03:51:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-13 11:08:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 03:51:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 03:51:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:08:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:08:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[403]]></wp:post_name>
@@ -4803,8 +4803,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="foreign"><![CDATA[Foreign]]></category>
 		<category domain="post_tag" nicename="rome"><![CDATA[Rome]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[33]]></wp:meta_value>
@@ -5000,8 +5000,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="cold-day"><![CDATA[Cold Day]]></category>
-		<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
 		<category domain="category" nicename="food"><![CDATA[Food]]></category>
+		<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
 		<category domain="post_tag" nicename="recipies"><![CDATA[Recipies]]></category>
 		<category domain="post_tag" nicename="warm-food"><![CDATA[Warm Food]]></category>
 						<wp:postmeta>
@@ -5128,8 +5128,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
-		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
+										<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="post_tag" nicename="diy"><![CDATA[DIY]]></category>
 		<category domain="post_tag" nicename="ideas"><![CDATA[Ideas]]></category>
 						<wp:postmeta>
@@ -5282,8 +5282,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="destination"><![CDATA[Destination]]></category>
 		<category domain="post_tag" nicename="exploring"><![CDATA[Exploring]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[94]]></wp:meta_value>
@@ -5437,8 +5437,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="art"><![CDATA[Art]]></category>
-		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[87]]></wp:meta_value>
@@ -5562,8 +5562,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="mind-games"><![CDATA[Mind Games]]></category>
 		<category domain="post_tag" nicename="power"><![CDATA[Power]]></category>
 						<wp:postmeta>
@@ -6191,8 +6191,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="solo-trip"><![CDATA[Solo Trip]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[84]]></wp:meta_value>
@@ -6255,8 +6255,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="culture"><![CDATA[Culture]]></category>
-		<category domain="category" nicename="culture"><![CDATA[Culture]]></category>
+										<category domain="category" nicename="culture"><![CDATA[Culture]]></category>
+		<category domain="post_tag" nicename="culture"><![CDATA[Culture]]></category>
 		<category domain="post_tag" nicename="folklore"><![CDATA[Folklore]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6332,8 +6332,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
-		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
+										<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="post_tag" nicename="diy"><![CDATA[DIY]]></category>
 		<category domain="post_tag" nicename="ideas"><![CDATA[Ideas]]></category>
 		<category domain="post_tag" nicename="small-space"><![CDATA[Small Space]]></category>
@@ -6552,8 +6552,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
 		<category domain="post_tag" nicename="insurance"><![CDATA[Insurance]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="vaccation"><![CDATA[Vaccation]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6855,40 +6855,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Primary Menu]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/law-pro/2024/08/12/primary-menu-2/</link>
-		<pubDate>Mon, 12 Aug 2024 04:07:54 +0000</pubDate>
-		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/law-pro/?p=358</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":300,"url":"https://demo.wpwheels.com/blockwheels/law-pro/","kind":"post-type","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-link {"label":"About us","type":"page","id":366,"url":"https://demo.wpwheels.com/blockwheels/law-pro/about-us/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Services","type":"page","id":381,"url":"https://demo.wpwheels.com/blockwheels/law-pro/services/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Our Works","type":"page","id":372,"url":"https://demo.wpwheels.com/blockwheels/law-pro/our-works/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Reviews","type":"page","id":376,"url":"https://demo.wpwheels.com/blockwheels/law-pro/reviews/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":350,"url":"https://demo.wpwheels.com/blockwheels/law-pro/blog/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>358</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-12 04:07:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-12 04:07:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-12 06:14:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-12 06:14:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[primary-menu-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Header]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/law-pro/2024/08/12/header/</link>
 		<pubDate>Mon, 12 Aug 2024 04:07:54 +0000</pubDate>
@@ -6900,7 +6866,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-group alignwide" style="margin-top:0px;padding-top:30px;padding-bottom:30px"><!-- wp:site-logo {"width":266,"shouldSyncIcon":true} /-->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:navigation {"ref":404,"layout":{"type":"flex","justifyContent":"left"}} /-->
+<div class="wp-block-group"><!-- wp:navigation {"ref":485,"layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:buttons {"layout":{"type":"flex"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"width":100,"className":"is-style-fill","style":{"color":{"background":"#f8b10c","text":"#ffffff"},"elements":{"link":{"color":{"text":"#ffffff"}}},"border":{"width":"0px","style":"none"}}} -->
@@ -6914,8 +6880,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>359</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-12 04:07:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-12 04:07:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 04:39:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 04:39:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:10:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:10:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -6970,55 +6936,21 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 					<item>
 		<title><![CDATA[Primary Menu]]></title>
 		<link>https://demo.wpwheels.com/blockwheels/law-pro/2024/08/13/primary-menu/</link>
-		<pubDate>Tue, 13 Aug 2024 03:54:49 +0000</pubDate>
+		<pubDate>Tue, 13 Aug 2024 11:09:44 +0000</pubDate>
 		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/law-pro/?p=404</guid>
+		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/law-pro/2024/08/13/primary-menu/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":300,"url":"https://demo.wpwheels.com/blockwheels/law-pro/","kind":"post-type","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-link {"label":"About us","type":"page","id":366,"url":"https://demo.wpwheels.com/blockwheels/law-pro/about-us/","kind":"post-type","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-link {"label":"Services","type":"page","id":381,"url":"https://demo.wpwheels.com/blockwheels/law-pro/services/","kind":"post-type","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-link {"label":"Our Works","type":"page","id":372,"url":"https://demo.wpwheels.com/blockwheels/law-pro/our-works/","kind":"post-type","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-link {"label":"Reviews","type":"page","id":376,"url":"https://demo.wpwheels.com/blockwheels/law-pro/reviews/","kind":"post-type","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":350,"url":"https://demo.wpwheels.com/blockwheels/law-pro/blog/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page menu-item-home","description":"","id":"300","kind":"post-type","label":"Home","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/law-pro/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"366","kind":"post-type","label":"About us","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/law-pro/about-us/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"381","kind":"post-type","label":"Services","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/law-pro/services/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"372","kind":"post-type","label":"Our Works","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/law-pro/our-works/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"376","kind":"post-type","label":"Reviews","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/law-pro/reviews/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"350","kind":"post-type","label":"Blog","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"https://demo.wpwheels.com/blockwheels/law-pro/blog/"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>404</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-13 03:54:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-13 03:54:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 04:33:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-13 04:33:50]]></wp:post_modified_gmt>
+		<wp:post_id>485</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-13 11:09:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-13 11:09:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-13 11:09:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-13 11:09:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[primary-menu]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Header navigation]]></title>
-		<link>https://demo.wpwheels.com/blockwheels/law-pro/?p=431</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[superuser]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpwheels.com/blockwheels/law-pro/?p=431</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>431</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-13 04:19:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-13 04:19:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
