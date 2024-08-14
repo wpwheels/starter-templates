@@ -5,13 +5,13 @@
         "import_name": "Default",
         "categories": ["Free", "FSE"],
         "import_path": "v1",
-        "preview_url": "https://demo.wpwheels.com/blockwheels/"
+        "preview_url": "https://demo.wpwheels.com/blockwheels/home-01/"
       },
       {
         "import_name": "Home 1",
         "categories": ["Free", "FSE"],
         "import_path": "v2",
-        "preview_url": "https://demo.wpwheels.com/blockwheels/home-01/"
+        "preview_url": "https://demo.wpwheels.com/blockwheels/home-02/"
       }
     ],
     "pro": [
@@ -25,7 +25,7 @@
         "import_name": "Photography Pro",
         "categories": ["Pro", "FSE"],
         "import_path": "v4",
-        "preview_url": "https://demo.wpwheels.com/blockwheels/photography/"
+        "preview_url": "https://demo.wpwheels.com/blockwheels/photography-pro/"
       },
       {
         "import_name": "Law Pro",
