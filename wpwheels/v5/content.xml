@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-13 11:11" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-26 04:08" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Law Pro</title>
 	<link>https://demo.wpwheels.com/blockwheels/law-pro</link>
 	<description></description>
-	<pubDate>Tue, 13 Aug 2024 11:11:12 +0000</pubDate>
+	<pubDate>Mon, 26 Aug 2024 04:08:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.wpwheels.com/blockwheels/</wp:base_site_url>
@@ -4803,8 +4803,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="foreign"><![CDATA[Foreign]]></category>
 		<category domain="post_tag" nicename="rome"><![CDATA[Rome]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[33]]></wp:meta_value>
@@ -5000,8 +5000,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="cold-day"><![CDATA[Cold Day]]></category>
-		<category domain="category" nicename="food"><![CDATA[Food]]></category>
 		<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
+		<category domain="category" nicename="food"><![CDATA[Food]]></category>
 		<category domain="post_tag" nicename="recipies"><![CDATA[Recipies]]></category>
 		<category domain="post_tag" nicename="warm-food"><![CDATA[Warm Food]]></category>
 						<wp:postmeta>
@@ -5128,8 +5128,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
-		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+										<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="post_tag" nicename="diy"><![CDATA[DIY]]></category>
 		<category domain="post_tag" nicename="ideas"><![CDATA[Ideas]]></category>
 						<wp:postmeta>
@@ -5282,8 +5282,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="destination"><![CDATA[Destination]]></category>
 		<category domain="post_tag" nicename="exploring"><![CDATA[Exploring]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[94]]></wp:meta_value>
@@ -5437,8 +5437,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="art"><![CDATA[Art]]></category>
-		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[87]]></wp:meta_value>
@@ -5562,8 +5562,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="mind-games"><![CDATA[Mind Games]]></category>
 		<category domain="post_tag" nicename="power"><![CDATA[Power]]></category>
 						<wp:postmeta>
@@ -6191,8 +6191,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="solo-trip"><![CDATA[Solo Trip]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[84]]></wp:meta_value>
@@ -6255,8 +6255,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="culture"><![CDATA[Culture]]></category>
-		<category domain="post_tag" nicename="culture"><![CDATA[Culture]]></category>
+										<category domain="post_tag" nicename="culture"><![CDATA[Culture]]></category>
+		<category domain="category" nicename="culture"><![CDATA[Culture]]></category>
 		<category domain="post_tag" nicename="folklore"><![CDATA[Folklore]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6332,8 +6332,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
-		<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+										<category domain="post_tag" nicename="decor"><![CDATA[Decor]]></category>
+		<category domain="category" nicename="decor"><![CDATA[Decor]]></category>
 		<category domain="post_tag" nicename="diy"><![CDATA[DIY]]></category>
 		<category domain="post_tag" nicename="ideas"><![CDATA[Ideas]]></category>
 		<category domain="post_tag" nicename="small-space"><![CDATA[Small Space]]></category>
@@ -6552,8 +6552,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
 		<category domain="post_tag" nicename="insurance"><![CDATA[Insurance]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="vaccation"><![CDATA[Vaccation]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
